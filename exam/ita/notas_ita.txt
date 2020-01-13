@@ -1,0 +1,671 @@
+                                                          +---------+-----------------------------------------+                            .
+                                                          | 1ª FASE |                 2ª FASE                 |                            .
++---------------------------------------------------------+---------+-----------------------------------------+------+---------------------+
+|                          NOME                           |  MEDIA  |   MAT.    FIS.   QUIM.  REDACAO  MEDIA  |CLASS.|        BANCA        |
++---------------------------------------------------------+---------+-----------------------------------------+------+---------------------+
+| ABILIO DAVI OLIVEIRA DE MOURA                           |  6,6666 |  4,1000  3,6000  3,8000  4,7500  4,5833 | ---- | TERESINA            |
+| ABNER EFFGEN DE ALMEIDA                                 |  6,6666 |  5,2000  3,8000  5,5000  6,0000  5,4333 | ---- | SAO JOSE DOS CAMPOS |
+| ALBERTO FELIPE DE LIMA LUCKWU SILVA                     |  7,6666 |  4,8000  2,5000  5,4000  6,2500  5,3233 | ---- | RECIFE              |
+| ALCIDES VILAR DE ARAUJO MOURA E SILVA                   |  6,8333 |  5,6000  5,4000  7,7000  8,0000  6,7066 | 0058 | TERESINA            |
+| ALESSANDRO PIMENTEL MESQUITA                            |  6,6666 |  7,5000  5,2000  5,3000  6,0000  6,1333 | 0166 | FORTALEZA           |
+| ALEX MONTENEGRO CABRAL DE BRITO                         |  7,3333 |  4,9000  4,1000  5,7000  4,7500  5,3566 | 0327 | FORTALEZA           |
+| ALEX PROCOPIO LIMA CABRAL DO CARMO                      |  6,5000 |  4,4000  3,0000  3,9000  4,2500  4,4100 | ---- | RIO DE JANEIRO      |
+| ALEXANDRE BELLARGUS SILVA DA COSTA                      |  6,8333 |  4,2000  3,7000  3,9000  6,7500  5,0766 | ---- | FORTALEZA           |
+| ALEXANDRE MANDELLI NETO                                 |  6,3333 |  5,4000  4,6000  5,6000  5,0000  5,3866 | 0318 | SAO JOSE DOS CAMPOS |
+| ALEXANDRE TABOSA SANTIAGO                               |  7,3333 |  7,1000  5,7500  6,9000  5,7500  6,5666 | 0081 | SAO JOSE DOS CAMPOS |
+| ALICE CZYZ FROES FONTES                                 |  6,5000 |  4,8000  3,8000  4,1000  5,7500  4,9900 | ---- | SAO JOSE DOS CAMPOS |
+| ALICYA MARQUES OLIVEIRA DE MENESES                      |  6,1666 |  4,6000  2,9000  4,2000  5,7500  4,7233 | ---- | FORTALEZA           |
+| ALJAN ALMEIDA DIAS                                      |  6,0000 |  4,9000  2,8000  4,1000  4,7500  4,5100 | ---- | SAO LUIS            |
+| ALLAN HENRIQUE KAMIMURA                                 |  7,3333 |  5,3000  3,8000  6,6000  7,0000  6,0066 | ---- | SAO JOSE DOS CAMPOS |
+| ALUISIO RIBEIRO ALMEIDA E SOUZA                         |  7,0000 |  3,5000  4,6000  6,9000  4,7500  5,3500 | ---- | FORTALEZA           |
+| ANA BEATRIZ DA SILVA MACHADO                            |  6,8333 |  7,2000  5,3000  7,3000  7,0000  6,7266 | 0052 | FORTALEZA           |
+| ANA CAROLINA VINHAS MIONI RODRIGUES                     |  6,0000 |  3,2000  3,1500  6,3000  7,7500  5,2800 | ---- | SAO JOSE DOS CAMPOS |
+| ANA CAROLINE TAVARES VERAS                              |  6,6666 |  6,9000  6,1000  8,0000  5,2500  6,5833 | 0075 | FORTALEZA           |
+| ANA LIVIA DOS SANTOS MAZZIOTTI                          |  6,3333 |  6,3000  3,5000  5,1000  7,5000  5,7466 | ---- | RIO DE JANEIRO      |
+| ANA LIVIA MATOS MUNIZ                                   |  7,3333 |  8,2000  3,9000  7,1000  7,5000  6,8066 | ---- | FORTALEZA           |
+| ANA LUISA GIRIO BERLINGIERI                             |  7,0000 |  4,3000  2,9500  5,2000  6,0000  5,0900 | ---- | SAO JOSE DOS CAMPOS |
+| ANDRE AFONSO CARDOSO DA SILVA                           |  6,6666 |  6,5000  5,0000  6,0000  7,5000  6,3333 | 0128 | BELO HORIZONTE      |
+| ANDRE BARRETO MOREIRA                                   |  7,1666 |  4,8000  4,3000  6,9000  5,7500  5,7833 | 0248 | FORTALEZA           |
+| ANDRE DIOGO FIRMINO DOS SANTOS                          |  6,8333 |  7,2000  6,0000  5,8000  5,7500  6,3166 | 0130 | FORTALEZA           |
+| ANDRE FELIPE PEREIRA GUIMARAES                          |  7,1666 |  8,8000  7,4000  6,7000  5,0000  7,0133 | 0022 | SAO JOSE DOS CAMPOS |
+| ANDRE FILIPE DIOGO CASTRO                               |  7,6666 |  7,4000  5,4000  5,5000  4,1250  6,0183 | 0195 | FORTALEZA           |
+| ANDRE LEONARDI FAVALESSA                                |  6,1666 |  3,8000  0,8000  2,5000  5,5000  3,7533 | ---- | VITORIA             |
+| ANDRE LUIZ DE MELO THIESSEN                             |  7,0000 |  5,8000  4,8000  5,9000  6,2500  5,9500 | 0214 | BRASILIA            |
+| ANDRE MAZZOCO LEAO PEDROSO                              |  6,8333 |  7,6000  5,0000  5,9000  6,5000  6,3666 | 0123 | SAO JOSE DOS CAMPOS |
+| ANDRE MESQUITA RIOS                                     |  7,8333 |  3,6000  3,6000  4,5000  4,2500  4,7566 | ---- | FORTALEZA           |
+| ANDRE VITOR DAL BOSCO                                   |  8,1666 |  9,5000  7,7000  7,5000  5,2500  7,6233 | 0005 | SAO JOSE DOS CAMPOS |
+| ANDREI FREIBERGER                                       |  7,1666 |  7,7000  6,1000  6,0000  5,0000  6,3933 | 0120 | SAO JOSE DOS CAMPOS |
+| ANTONIO ESPINOLA NAVARRO NETO                           |  7,3333 |  7,6000  6,8000  6,6000  5,5000  6,7666 | 0048 | FORTALEZA           |
+| ANTONIO FERNANDO VITORIANO MARTINES PENNA               |  6,1666 |  6,7000  4,0000  4,8000  5,2500  5,3833 | 0322 | SAO JOSE DOS CAMPOS |
+| ANTONIO GUSTAVO SILVEIRA DANTAS                         |  6,8333 |  5,9000  6,4000  5,3000  5,2500  5,9366 | 0217 | FORTALEZA           |
+| ANTONIO PLACIDO CUNHA CAMARA FILHO                      |  7,0000 |  5,7000  3,6000  4,4000  4,2500  4,9900 | ---- | RIO DE JANEIRO      |
+| ANTONIO ZANGARI GIMENES                                 |  6,8333 |  6,5000  5,0500  6,6000  5,0000  5,9966 | 0200 | SAO JOSE DOS CAMPOS |
+| ARIANNY VITORIA ROCHA ALVES                             |  6,6666 |  6,7000  1,4000  5,5000  8,2500  5,7033 | ---- | FORTALEZA           |
+| ARIEL SILVA CLAUDINO                                    |  7,0000 |  8,1000  5,4500  7,2000  6,7500  6,9000 | 0032 | SAO JOSE DOS CAMPOS |
+| ARNON HENRIQUE BARROS CAVALCANTE DE SOUSA               |  6,3333 |  2,9000  4,4000  4,1000  5,0000  4,5466 | ---- | FORTALEZA           |
+| AROLDO MENDES PAIVA NETO                                |  6,8333 |  4,8000  3,9000  5,3000  6,7500  5,5166 | ---- | FORTALEZA           |
+| ARTHUR AUGUSTO DE QUEIROZ GOMES                         |  6,1666 |  5,4000  4,7000  4,5000  6,2500  5,4033 | 0313 | GOIANIA             |
+| ARTHUR CARDOZO MUNHOZ DE OLIVEIRA                       |  7,3333 |  5,3000  5,0000  7,0000  6,5000  6,2266 | 0151 | CURITIBA            |
+| ARTHUR COSTA CAVALCANTE                                 |  7,0000 |  7,2000  4,5000  4,6000  5,2500  5,7100 | 0263 | FORTALEZA           |
+| ARTHUR COSTA STEVENSON MOTA                             |  7,0000 |  7,0000  6,0000  6,8000  7,5000  6,8600 | 0038 | FORTALEZA           |
+| ARTHUR CRUZ SHINZATO                                    |  6,1666 |  6,9000  5,9000  6,1000  4,7500  5,9633 | 0209 | SAO PAULO           |
+| ARTHUR GUARIEIRO MACHADO BARBOSA                        |  6,3333 |  6,5000  5,8000  5,4000  4,2500  5,6566 | 0274 | BELO HORIZONTE      |
+| ARTHUR POUBEL BONAMIGO                                  |  6,3333 |  2,2000  3,8000  4,8000  9,0000  5,2266 | ---- | VITORIA             |
+| ARTHUR TRENTIN BOGOVICZ                                 |  7,0000 |  5,4000  3,9000  5,9000  5,0000  5,4400 | ---- | PORTO ALEGRE        |
+| ARTHUR VICENTE BARROS FEITOSA                           |  7,6666 |  5,1000  6,1000  7,5000  7,5000  6,7733 | 0046 | BRASILIA            |
+| ARTUR GORLACH LIRA                                      |  7,6666 |  6,4000  5,7000  6,6000  6,0000  6,4733 | 0099 | FORTALEZA           |
+| ARTUR VIEIRA PEREIRA                                    |  6,0000 |  5,5000  4,9500  4,2000  4,2500  4,9800 | ---- | CAMPINAS            |
+| AUGUSTO MIRANDA DE PAULA                                |  6,6666 |  6,3000  6,0000  7,1000  8,0000  6,8133 | 0041 | BRASILIA            |
+| BEATRIZ FEITOZA PAULO                                   |  6,8333 |  6,6000  6,3000  7,1000  6,5000  6,6666 | 0064 | FORTALEZA           |
+| BERNARDO HOFFMANN DA SILVA                              |  7,3333 |  7,3000  6,9500  8,4000  7,0000  7,3966 | 0011 | SAO JOSE DOS CAMPOS |
+| BRENDA LIN HENG RU                                      |  6,3333 |  5,7000  2,5500  5,6000  8,0000  5,6366 | ---- | RIO DE JANEIRO      |
+| BRENDON DINIZ BORCK                                     |  7,5000 |  8,2000  5,5000  8,6000  7,7500  7,5100 | 0008 | FORTALEZA           |
+| BRENDON LOIOLA MESSALI                                  |  7,3333 |  6,6000  5,8000  8,1000  6,7500  6,9166 | 0029 | SAO JOSE DOS CAMPOS |
+| BRENO DAS NEVES DE LIMA                                 |  6,8333 |  6,1000  5,6000  5,0000  4,5000  5,6066 | 0279 | RIO DE JANEIRO      |
+| BRENO RODRIGUES CABRAL                                  |  7,0000 |  8,0000  3,1000  5,5000  4,2500  5,5700 | ---- | RIO DE JANEIRO      |
+| BRIAN CLARK ZANFELICE                                   |  6,0000 |  6,6000  3,9000  6,1000  3,0000  5,1200 | ---- | FORTALEZA           |
+| BRUNA BELARMINO SILVA                                   |  6,0000 |  4,9000  5,1000  4,7000  4,7500  5,0900 | 0350 | SAO PAULO           |
+| BRUNA OKURA                                             |  6,1666 |  4,5000  0,3000  3,9000  5,5000  4,0733 | ---- | SAO PAULO           |
+| BRUNO BERGANHOLI DIAS                                   |  6,0000 |  6,9000  5,3000  6,1000  5,5000  5,9600 | 0211 | BELO HORIZONTE      |
+| BRUNO CAMACHO BURIN                                     |  7,1666 |  5,2000  5,4000  5,9000  8,0000  6,3333 | 0129 | FORTALEZA           |
+| BRUNO DAIGO YAMAMOTO                                    |  6,1666 |  5,2000  4,7000  6,2000  4,7500  5,4033 | 0314 | SAO JOSE DOS CAMPOS |
+| BRUNO DE PAULA FERREIRA                                 |  8,3333 |  8,7000  8,4000  8,0000  8,0000  8,2866 | 0001 | FORTALEZA           |
+| BRUNO HENRIQUE DAN GARCIA                               |  6,8333 |  8,3000  5,6000  8,1000  5,5000  6,8666 | 0037 | SAO JOSE DOS CAMPOS |
+| BRUNO LOPES PINHO                                       |  7,1666 |  7,4000  5,3000  6,0000  5,2500  6,2233 | 0152 | SAO JOSE DOS CAMPOS |
+| BRUNO MONTEIRO FRANZINI                                 |  7,5000 |  8,2000  4,7000  7,6000  6,5000  6,9000 | 0031 | SAO JOSE DOS CAMPOS |
+| BRUNO PIACESI BARNABE                                   |  6,6666 |  4,1000  4,2000  8,5000  5,0000  5,6933 | 0266 | BELO HORIZONTE      |
+| BRUNO VIEIRA DE ALCANTARA                               |  7,3333 |  3,7000  2,8000  3,7000  7,0000  4,9066 | ---- | NATAL               |
+| BRYAN DINIZ BORCK                                       |  7,1666 |  7,2000  5,1000  7,1000  8,5000  7,0133 | 0024 | FORTALEZA           |
+| BRYAN GILVAZ CHIN                                       |  6,6666 |  6,1000  3,1000  3,5000  4,7500  4,8233 | ---- | SAO PAULO           |
+| CAETANO DA MOTTA LIMA SOUZA RAMOS                       |  6,8333 |  5,3000  2,8000  1,5000  6,5000  4,5866 | ---- | RIO DE JANEIRO      |
+| CAIO EDUARDO DOS SANTOS DE SOUZA                        |  6,1666 |  3,0000  5,7500  6,1000  4,7500  5,1533 | ---- | SAO JOSE DOS CAMPOS |
+| CAIO JANSEN ACCIOLY                                     |  7,3333 |  4,9000  5,7000  6,4000  8,0000  6,4666 | 0104 | RECIFE              |
+| CAIO PERES MOTA FERREIRA BEZERRA                        |  7,5000 |  8,8000  7,0000  5,2000  4,5000  6,6000 | 0073 | FORTALEZA           |
+| CAIO REGIS AGUIAR MOREIRA                               |  7,0000 |  4,5000  2,1000  4,9000  3,0000  4,3000 | ---- | FORTALEZA           |
+| CAIO RODRIGUES DE SOUZA                                 |  6,5000 |  3,2000  1,4000  3,4000  4,7500  3,8500 | ---- | SAO PAULO           |
+| CAIQUE FIGUEIREDO FREITAS                               |  7,0000 |  5,5000  4,6000  4,2000  3,0000  4,8600 | ---- | FORTALEZA           |
+| CAMILA CARDI PIFANO DE PAULA                            |  6,1666 |  5,1000  3,8000  6,1000  6,7500  5,5833 | ---- | JUIZ DE FORA        |
+| CARLA MARIANA CARLOS                                    |  6,3333 |  6,9000  6,6500  6,4000  5,2500  6,3066 | 0132 | FORTALEZA           |
+| CARLOS EDUARDO BRASIL DE MENDONCA ROCHA                 |  7,6666 |  7,0000  6,6000  5,2000  3,7500  6,0433 | ---- | SAO JOSE DOS CAMPOS |
+| CARLOS EDUARDO SOUSA DE MAGALHAES BASTOS GOMES          |  6,3333 |  6,2000  3,8000  5,5000  5,7500  5,5166 | ---- | RIO DE JANEIRO      |
+| CARLOS EMANUEL FERREIRA NUNES                           |  7,1666 |  8,0000  6,0000  6,5000  5,2500  6,5833 | 0074 | TERESINA            |
+| CARLOS HENRICCO RABELO DE QUEIROZ                       |  6,5000 |  3,9000  4,1000  6,0000  6,0000  5,3000 | ---- | FORTALEZA           |
+| CARLOS HENRIQUE SILVA THIERSCH                          |  7,3333 |  6,2000  5,5000  4,8000  4,0000  5,5666 | 0290 | BELO HORIZONTE      |
+| CARLOS INACIO SERMUD NAVEGA                             |  6,6666 |  5,2000  4,3500  6,6000  8,5000  6,2633 | 0141 | RIO DE JANEIRO      |
+| CARLOS ROBERTO SOARES JUNIOR                            |  6,6666 |  5,2000  3,8000  5,8000  5,2500  5,3433 | ---- | SALVADOR            |
+| CAROLINA PEREZ MONTENEGRO                               |  6,1666 |  4,4000  2,1000  4,9000  7,5000  5,0133 | ---- | RIBEIRAO PRETO      |
+| CAROLINA TAVARES DUARTE                                 |  6,1666 |  2,4000  1,0000  1,7000  7,0000  3,6533 | ---- | FORTALEZA           |
+| CAROLINE DUARTE GANDOLFI                                |  6,5000 |  5,1000  3,7000  4,7000  5,5000  5,1000 | ---- | CURITIBA            |
+| CAROLINE GOMES PEREIRA DA SILVA                         |  6,6666 |  6,4000  4,8000  5,7000  4,7500  5,6633 | 0271 | SAO JOSE DOS CAMPOS |
+| CATARINA LUZ MOURA IBIAPINA BARROS                      |  6,3333 |  5,1000  3,8000  4,1000  7,2500  5,3166 | ---- | TERESINA            |
+| CATULO AXEL TEIXEIRA VASCONCELOS ALVES                  |  6,8333 |  5,1000  3,8000  3,9000  5,5000  5,0266 | ---- | FORTALEZA           |
+| CAUE MARCAL GUIMARAES                                   |  7,8333 |  4,5000  5,0000  7,9000  6,0000  6,2466 | 0146 | SAO PAULO           |
+| CELSO CARDOSO FIDALGO FILHO                             |  7,6666 |  4,1000  6,0000  6,5000  3,7500  5,6033 | ---- | FORTALEZA           |
+| CEZAR ROBERT DA SILVA ARAUJO                            |  7,6666 |  7,3000  6,1000  6,2000  8,2500  7,1033 | 0021 | FORTALEZA           |
+| CHAN DAVID RIBEIRO                                      |  7,1666 |  6,2000  4,0000  5,6000  5,7500  5,7433 | 0259 | FORTALEZA           |
+| CHRISTOFER HELIO PEREIRA DA SILVA                       |  6,0000 |  3,9000  1,3000  6,4000  6,7500  4,8700 | ---- | SAO JOSE DOS CAMPOS |
+| CIRO CALHEIROS PINHEIRO RIOMAR                          |  6,5000 |  5,2000  6,4500  4,5000  6,5000  5,8300 | 0238 | SAO JOSE DOS CAMPOS |
+| CLAUDIO LUCIO CUNHA DA SILVA                            |  6,3333 |  5,4000  4,9000  5,8000  4,5000  5,3866 | 0317 | FORTALEZA           |
+| DANIEL ARAUJO CAVASSANI                                 |  7,3333 |  5,1000  6,8000  7,5000  5,0000  6,3466 | 0126 | SAO JOSE DOS CAMPOS |
+| DANIEL BATISTA CUADROS                                  |  7,8333 |  5,5000  5,7000  5,5000  5,0000  5,9066 | 0224 | SAO JOSE DOS CAMPOS |
+| DANIEL BEZERRA NUNES                                    |  6,8333 |  6,1000  4,1000  6,7000  6,5000  6,0466 | 0190 | RIO DE JANEIRO      |
+| DANIEL BUENO BORGES                                     |  6,6666 |  7,9000  3,9000  5,9000  4,0000  5,6733 | ---- | FORTALEZA           |
+| DANIEL CAVALCANTI DE MENDONCA JUNIOR                    |  6,6666 |  6,8000  5,5000  6,7000  5,0000  6,1333 | 0167 | SAO JOSE DOS CAMPOS |
+| DANIEL DE ARAUJO BRITO                                  |  6,6666 |  8,0000  4,3000  5,5000  6,0000  6,0933 | 0176 | RIO DE JANEIRO      |
+| DANIEL HENRIQUE BRAGA DA SILVA                          |  7,3333 |  4,4000  5,1000  4,9000  6,5000  5,6466 | 0276 | FORTALEZA           |
+| DANIEL MASAAKI NOJIMA                                   |  6,8333 |  6,8000  3,5000  4,9000  2,8750  4,9816 | ---- | FORTALEZA           |
+| DANIEL MODESTO BARROS                                   |  8,0000 |  3,9000  6,8000  7,3000  6,0000  6,4000 | ---- | FORTALEZA           |
+| DANIEL MOLINA RODRIGUES                                 |  6,3333 |  6,9000  5,4000  8,1000  6,7500  6,6966 | 0060 | SAO PAULO           |
+| DANIEL SALLES LEITE                                     |  7,0000 |  5,4000  4,8000  3,8000  5,7500  5,3500 | ---- | FORTALEZA           |
+| DANIEL SANTANA                                          |  6,3333 |  4,9000  3,3000  4,8000  8,0000  5,4666 | ---- | BRASILIA            |
+| DANIEL VANDRE BARBOSA                                   |  6,3333 |  6,1000  5,9000  6,9000  5,5000  6,1466 | 0164 | GOIANIA             |
+| DANIEL YAMAMOTO DAMICO                                  |  6,0000 |  4,9000  1,8000  4,4000  5,7500  4,5700 | ---- | CAMPINAS            |
+| DANILO FERREIRA MARTINS                                 |  7,3333 |  5,7000  3,6000  5,4000  6,2500  5,6566 | ---- | SAO PAULO           |
+| DAVI ALCANTARA PEREIRA LIMA                             |  7,3333 |  6,6000  5,9000  5,7000  4,5000  6,0066 | 0197 | SAO JOSE DOS CAMPOS |
+| DAVI CRUZ PESTANA                                       |  6,5000 |  3,9000  3,7000  4,1000  4,2500  4,4900 | ---- | SAO JOSE DOS CAMPOS |
+| DAVI MACIEL DIAS                                        |  6,1666 |  4,0000  7,4000  1,7000  3,7500  4,6033 | ---- | FORTALEZA           |
+| DAVI YAN MACEDO BRANDAO                                 |  6,0000 |  6,4000  5,2000  5,0000  7,7500  6,0700 | 0182 | TERESINA            |
+| DAVID VICTOR DE ANDRADE                                 |  7,5000 |  6,6000  4,8000  6,2000  5,7500  6,1700 | 0160 | FORTALEZA           |
+| DENILSON GUSTAVO DE ARAUJO SOARES                       |  6,6666 |  5,8000  3,5000  4,4000  4,7500  5,0233 | ---- | SAO JOSE DOS CAMPOS |
+| DENIO ARAUJO DE ALMEIDA                                 |  6,5000 |  4,3000  4,4000  7,6000  4,7500  5,5100 | 0298 | SAO JOSE DOS CAMPOS |
+| DIANARA CANDIDO TAVARES                                 |  6,1666 |  1,5000  0,3000  2,9000  5,5000  3,2733 | ---- | FORTALEZA           |
+| DIEGO CAMPOS LABOISSIERE VILLELA                        |  8,0000 |  8,7000  7,8500  7,5000  7,0000  7,8100 | 0002 | BRASILIA            |
+| DIEGO LIMA VASCONCELOS                                  |  7,1666 |  4,4000  5,5000  5,3000  3,2500  5,1233 | ---- | FORTALEZA           |
+| DIEGO MOURA DE MORAIS                                   |  7,1666 |  5,2000  5,2000  6,8000  5,7500  6,0233 | 0194 | FORTALEZA           |
+| DIOGO LONGO POLO                                        |  7,3333 |  6,6000  4,9000  4,8000  4,2500  5,5766 | 0286 | SAO JOSE DOS CAMPOS |
+| DOUGLAS MARINHO DOS SANTOS                              |  7,0000 |  5,8000  3,2000  3,9000  7,2500  5,4300 | ---- | FORTALEZA           |
+| DOUGLAS MASSAHIRO KOTSUBO                               |  6,0000 |  5,7000  4,0000  4,8000  4,7500  5,0500 | 0354 | SAO PAULO           |
+| DOUGLAS MONTEIRO ALMEIDA SOUZA                          |  6,5000 |  4,8000  4,2000  4,1000  5,7500  5,0700 | 0353 | SAO PAULO           |
+| EDUARDO BEZERRA ROBALINHO DANTAS DA GAMA                |  6,0000 |  5,2000  4,4000  5,4000  3,5000  4,9000 | ---- | RECIFE              |
+| EDUARDO COSTA PEREIRA                                   |  6,5000 |  4,5000  1,6000  4,0000  3,7500  4,0700 | ---- | CUIABA              |
+| EDUARDO DE MOURA SIMPLICIO                              |  7,5000 |  8,0000  5,5000  6,7000  7,2500  6,9900 | 0026 | TERESINA            |
+| EDUARDO HIROJI BRANDAO HARAGUCHI                        |  6,6666 |  6,8000  4,2000  5,2000  4,7500  5,5233 | 0296 | FORTALEZA           |
+| EDUARDO LUCAS DE FARIA BENTOLILA                        |  6,1666 |  4,7000  3,1000  4,7000  4,2500  4,5833 | ---- | RIO DE JANEIRO      |
+| EDUARDO MOURA ZINDANI                                   |  6,3333 |  2,1000  4,3000  4,4000  4,5000  4,3266 | ---- | SAO JOSE DOS CAMPOS |
+| EDUARDO PAES LEME JAQUEIRA                              |  6,3333 |  3,8000  2,0500  4,1000  4,5000  4,1566 | ---- | SAO JOSE DOS CAMPOS |
+| EDUARDO PERES CRUVINEL                                  |  7,0000 |  7,1000  5,8500  7,4000  6,2500  6,7200 | 0055 | SAO JOSE DOS CAMPOS |
+| ELIABE BASTOS DIAS                                      |  6,6666 |  3,8000  4,5000  6,2000  5,5000  5,3333 | ---- | FORTALEZA           |
+| EMANUEL GEFFERSON MACIEL SAMPAIO                        |  7,1666 |  5,5000  6,0000  4,8000  6,7500  6,0433 | 0192 | FORTALEZA           |
+| EMANUEL REINALDO GOMES BEZERRA                          |  6,8333 |  6,1000  4,7000  4,5000  6,7500  5,7766 | 0251 | TERESINA            |
+| EMMANUEL DA SILVA DIAS                                  |  8,3333 |  8,3000  6,0000  7,4000  7,0000  7,4066 | 0010 | SAO JOSE DOS CAMPOS |
+| ENRIQUE JOSE CICONATO FRARE                             |  6,0000 |  2,4000  2,2000  4,5000  4,7500  3,9700 | ---- | CAMPINAS            |
+| ENZO DE OLIVEIRA FARIAS                                 |  7,5000 |  7,5000  4,7000  6,4000  3,7500  5,9700 | ---- | SAO JOSE DOS CAMPOS |
+| ENZO GROSSI LIBERO                                      |  6,5000 |  8,2000  3,4000  4,3000  5,0000  5,4800 | ---- | JUIZ DE FORA        |
+| ENZO RABELO DE ARAUJO                                   |  6,5000 |  4,5000  3,1000  4,3000  3,7500  4,4300 | ---- | FORTALEZA           |
+| ENZO SILVA NASCIMENTO CABANAS                           |  7,5000 |  6,6000  3,9500  5,7000  6,5000  6,0500 | ---- | SAO JOSE DOS CAMPOS |
+| ERIC GUERRA RIBEIRO                                     |  8,6666 |  8,2000  7,1000  8,9000  5,5000  7,6733 | 0003 | SAO JOSE DOS CAMPOS |
+| ERIC YUTAKA FUKUYAMA                                    |  7,6666 |  8,1000  3,4000  6,4000  4,7500  6,0633 | ---- | CURITIBA            |
+| ERICK TENORIO DA SILVA                                  |  6,1666 |  5,8000  5,0000  6,5000  5,0000  5,6933 | 0265 | FORTALEZA           |
+| ERICK VIEIRA BASOUKOS                                   |  7,1666 |  5,6000  2,9000  6,8000  6,5000  5,7933 | ---- | SAO JOSE DOS CAMPOS |
+| ESDRAS CAVALCANTI DE ALMEIDA                            |  7,5000 |  7,7000  4,0000  6,5000  4,2500  5,9900 | 0201 | RECIFE              |
+| ESTER DE SALES RABELO                                   |  6,1666 |  4,7000  4,2000  7,7000  6,2500  5,8033 | 0243 | FORTALEZA           |
+| EVANDRO DE VASCONCELOS QUEIROZ FILHO                    |  6,6666 |  7,5000  5,0000  5,1000  4,1250  5,6783 | 0267 | FORTALEZA           |
+| EWERTHON ARAUJO MELZANI                                 |  7,1666 |  5,8000  4,5500  5,9000  4,5000  5,5833 | 0284 | SAO JOSE DOS CAMPOS |
+| FABIO DONOLA PINHEIRO CORREA DE CASTRO                  |  6,1666 |  3,7000  0,1000  5,8000  2,8750  3,7283 | ---- | RIO DE JANEIRO      |
+| FABIO LEONARDO AGUIAR RODRIGUES                         |  6,3333 |  5,8000  3,7000  4,5000  5,0000  5,0666 | ---- | FORTALEZA           |
+| FABRICIO ASFORA ROMERO ASSUNCAO                         |  6,1666 |  4,6000  6,2000  3,2000  5,5000  5,1333 | ---- | SALVADOR            |
+| FABRICIO MOTA NETO                                      |  6,3333 |  5,5000  2,3000  5,0000  5,5000  4,9266 | ---- | FORTALEZA           |
+| FELIPE AZAR CHAIB                                       |  7,0000 |  6,2000  4,0500  8,6000  4,0000  5,9700 | 0206 | SAO JOSE DOS CAMPOS |
+| FELIPE BRAGA ALVES                                      |  6,8333 |  7,4000  4,0000  5,7000  7,7500  6,3366 | 0127 | FORTALEZA           |
+| FELIPE DE LIMA FERREIRA DA SILVA                        |  6,3333 |  2,1000  3,2500  5,4000  5,7500  4,5666 | ---- | SAO JOSE DOS CAMPOS |
+| FELIPE DILLY MANSUR NOVAES                              |  7,0000 |  6,3000  6,0000  6,1000  5,5000  6,1800 | 0158 | FORTALEZA           |
+| FELIPE GONZAGA DE BRITO                                 |  6,3333 |  2,1000  4,5000  6,4000  5,7500  5,0166 | ---- | SAO PAULO           |
+| FELIPE JOSE BATISTA FARIAS                              |  7,6666 |  4,6000  5,4000  6,6000  6,0000  6,0533 | 0189 | FORTALEZA           |
+| FELIPE KNOLLER NUNES                                    |  6,3333 |  8,2000  4,5000  6,2000  5,7500  6,1966 | 0154 | RIO DE JANEIRO      |
+| FELIPE LEITAO ROSA FERNANDES                            |  7,3333 |  7,6000  5,4500  5,7000  4,7500  6,1666 | 0161 | SAO JOSE DOS CAMPOS |
+| FELIPE LINS DOS SANTOS                                  |  7,5000 |  8,9000  6,3000  6,9000  3,5000  6,6200 | ---- | FORTALEZA           |
+| FELIPE MARACAIPE LUDOVICO MACEDO                        |  6,8333 |  5,5000  4,6000  5,4000  5,3750  5,5416 | 0294 | SAO JOSE DOS CAMPOS |
+| FELIPE MARQUEZINI DA SILVA                              |  6,8333 |  7,7000  5,2000  6,5000  6,0000  6,4466 | 0105 | SAO JOSE DOS CAMPOS |
+| FELIPE MELLO DOS REIS                                   |  7,1666 |  4,3000  3,8000  5,5000  5,0000  5,1533 | ---- | BELO HORIZONTE      |
+| FELIPE PINTO COELHO NUTI                                |  7,8333 |  6,0000  5,1000  7,2000  8,2500  6,8766 | 0035 | RIBEIRAO PRETO      |
+| FELIPE SOUSA BEZERRA TELES                              |  6,5000 |  5,1000  6,3000  4,3000  5,2500  5,4900 | 0300 | FORTALEZA           |
+| FELIPE VIANA ANDRADE                                    |  6,1666 |  5,9000  5,4000  5,6000  8,2500  6,2633 | 0140 | FORTALEZA           |
+| FELIPE YUTAKA ALENCAR SATO                              |  6,3333 |  6,5000  4,1000  4,5000  5,7500  5,4366 | 0308 | SAO JOSE DOS CAMPOS |
+| FELIX MATHEUS SOUZA SILVA                               |  7,8333 |  4,0000  4,2500  6,8000  6,7500  5,9266 | 0218 | SAO JOSE DOS CAMPOS |
+| FERNANDA HELENA LOBATO SANTOS                           |  6,5000 |  5,6000  5,7500  6,2000  6,2500  6,0600 | 0185 | SAO JOSE DOS CAMPOS |
+| FERNANDO ANTONIO DOS SANTOS DINIZ                       |  6,6666 |  4,7000  4,0000  4,8000  6,0000  5,2333 | 0339 | SAO JOSE DOS CAMPOS |
+| FERNANDO FLUGEL ASSAD                                   |  7,3333 |  5,3000  3,2000  6,2000  5,2500  5,4566 | ---- | CURITIBA            |
+| FERNANDO SILVEIRA FERNANDES                             |  6,0000 |  5,0000  5,7000  2,1000  4,5000  4,6600 | ---- | FORTALEZA           |
+| FERNANDO TADEU BERTOLIN BARBOSA                         |  7,0000 |  6,5000  5,9000  6,6000  8,0000  6,8000 | 0042 | JUIZ DE FORA        |
+| FERNANDO VICTOR ALVES PEREIRA                           |  6,8333 |  6,0000  6,1000  6,4000  7,0000  6,4666 | 0102 | FORTALEZA           |
+| FILIPE ARAUJO XIMENES                                   |  7,8333 |  7,0000  6,8000  6,5000  5,7500  6,7766 | 0045 | FORTALEZA           |
+| FILIPE FRANCO FERREIRA                                  |  6,3333 |  0,0000  0,0000  0,0000  0,0000  0,0000 | ---- | BELO HORIZONTE      |
+| FILIPE LINHARES PADILHA                                 |  7,0000 |  7,1000  4,2500  6,8000  5,7500  6,1800 | 0157 | SAO JOSE DOS CAMPOS |
+| FILIPE MALUHY CUNDITT                                   |  6,8333 |  6,4000  6,2000  8,0000  4,7500  6,4366 | 0109 | RIO DE JANEIRO      |
+| FLAVIO TAVORA DIX-HUIT ROSADO VENTURA                   |  7,1666 |  9,5000  5,3000  6,7000  4,7500  6,6833 | 0062 | SAO JOSE DOS CAMPOS |
+| FRANCIELE SEMBAY                                        |  6,1666 |  6,4000  4,7000  5,1000  6,5000  5,7733 | 0252 | CURITIBA            |
+| FRANCISCA ANGELICA ALBUQUERQUE SEVERO                   |  7,1666 |  7,8000  4,1000  5,8000  4,7500  5,9233 | 0219 | FORTALEZA           |
+| FRANCISCO ANDRIOTTI DA SILVEIRA AYDOS                   |  6,1666 |  3,0000  3,6000  3,0000  4,5000  4,0533 | ---- | FORTALEZA           |
+| FRANCISCO EDUARDO FONTENELE RAMOS NETO                  |  7,0000 |  7,6000  6,3000  5,1000  6,0000  6,4000 | 0118 | FORTALEZA           |
+| FRANCISCO GABRIEL DA SILVA MAIA FILHO                   |  7,6666 |  8,0000  6,0000  6,8000  5,2500  6,7433 | 0050 | SAO JOSE DOS CAMPOS |
+| FREDERICK DEL GAUDIO CAMPBELL                           |  6,3333 |  7,6000  4,8000  1,9000  4,5000  5,0266 | ---- | BRASILIA            |
+| FREDERICO RAMPANI FRANZONI                              |  7,1666 |  6,3000  5,9000  6,7000  6,5000  6,5133 | 0090 | CURITIBA            |
+| GABRIEL BIANOR CASTRO                                   |  6,6666 |  5,1000  2,1000  2,3000  4,2500  4,0833 | ---- | FORTALEZA           |
+| GABRIEL CHANDLER LIGNELLI                               |  6,1666 |  3,1000  0,4000  3,7000  4,2500  3,5233 | ---- | BRASILIA            |
+| GABRIEL DE ARAUJO ALVES                                 |  6,3333 |  5,7000  6,2500  4,7000  4,7500  5,5466 | 0292 | SAO JOSE DOS CAMPOS |
+| GABRIEL FERREIRA CANDIDO                                |  7,5000 |  3,7000  3,2000  4,6000  4,5000  4,7000 | ---- | FORTALEZA           |
+| GABRIEL FIRME RODRIGUES                                 |  6,3333 |  4,6000  4,2500  7,1000  5,7500  5,6066 | 0280 | SAO JOSE DOS CAMPOS |
+| GABRIEL GANDOUR                                         |  7,6666 |  8,5000  6,5000  7,5000  6,0000  7,2333 | 0017 | SAO JOSE DOS CAMPOS |
+| GABRIEL JANNUZZI MARINHO                                |  7,6666 |  6,0000  4,2000  6,5000  4,5000  5,7733 | 0253 | RIO DE JANEIRO      |
+| GABRIEL LEONARDO DUQUE                                  |  6,0000 |  5,0000  3,7000  6,0000  4,6250  5,0650 | ---- | RIO DE JANEIRO      |
+| GABRIEL LESSA DE ARAUJO                                 |  6,8333 |  7,4000  5,6000  5,5000  7,0000  6,4666 | 0101 | SAO JOSE DOS CAMPOS |
+| GABRIEL MACEDO LUNA                                     |  6,5000 |  5,8000  2,8000  2,7000  4,5000  4,4600 | ---- | RIO DE JANEIRO      |
+| GABRIEL NASCIMENTO RODRIGUES                            |  6,6666 |  6,1000  1,8000  3,8000  1,8750  4,0483 | ---- | RIO DE JANEIRO      |
+| GABRIEL NOBREGA DE BRITO RAMOS                          |  6,6666 |  6,7000  5,5500  5,6000  5,7500  6,0533 | 0188 | SAO JOSE DOS CAMPOS |
+| GABRIEL ODA DE PAIVA                                    |  6,0000 |  5,6000  3,3500  3,8000  6,5000  5,0500 | ---- | SAO PAULO           |
+| GABRIEL OLIVEIRA TEOFILO                                |  7,0000 |  4,2000  3,7000  4,1000  4,5000  4,7000 | ---- | FORTALEZA           |
+| GABRIEL PEREIRA GONSALES                                |  6,5000 |  5,3000  4,6000  3,3000  6,5000  5,2400 | ---- | RIBEIRAO PRETO      |
+| GABRIEL RIBEIRO BENICIO                                 |  7,6666 |  7,5000  7,9000  6,6000  6,0000  7,1333 | 0020 | FORTALEZA           |
+| GABRIEL RIBEIRO PARDINI                                 |  7,3333 |  6,6000  6,9500  6,5000  5,5000  6,5766 | 0077 | VITORIA             |
+| GABRIEL RIVERA SPINOLA MITRE                            |  7,0000 |  5,3000  2,9500  5,4000  5,7500  5,2800 | ---- | SAO JOSE DOS CAMPOS |
+| GABRIEL ROCHA DAS NEVES NORTE                           |  7,0000 |  3,8000  5,3000  5,5000  4,7500  5,2700 | ---- | SAO JOSE DOS CAMPOS |
+| GABRIEL SANTOS PASSOS                                   |  6,3333 |  7,1000  5,6000  4,6000  6,7500  6,0766 | 0179 | BRASILIA            |
+| GABRIEL SOUTO DOMICIOLI                                 |  6,3333 |  5,1000  4,8000  3,5000  5,2500  4,9966 | ---- | RIO DE JANEIRO      |
+| GABRIEL SOUZA TEDESCO                                   |  6,8333 |  7,8000  3,3000  3,6000  4,0000  5,1066 | ---- | VITORIA             |
+| GABRIEL TELLES MISSAILIDIS                              |  6,0000 |  5,0000  7,2000  4,7000  6,0000  5,7800 | 0250 | SAO PAULO           |
+| GABRIEL VINICIUS LIMA DE ALBUQUERQUE                    |  7,0000 |  5,5000  4,6500  7,5000  5,2500  5,9800 | 0204 | SAO JOSE DOS CAMPOS |
+| GALBA CARVALHO CARNEIRO FILHO                           |  7,1666 |  6,1000  3,7000  6,1000  4,2500  5,4633 | ---- | FORTALEZA           |
+| GEORGES MIKHAEL ANDRAUS                                 |  6,5000 |  3,6000  3,2000  8,1000  7,7500  5,8300 | ---- | SAO JOSE DOS CAMPOS |
+| GERLAN JOSE PEREIRA PEDROTI                             |  6,1666 |  2,8000  3,8000  3,6000  4,5000  4,1733 | ---- | RIO DE JANEIRO      |
+| GILSON GABRIEL DE SOUZA PINTO                           |  6,8333 |  7,0000  5,3000  7,3000  4,0000  6,0866 | 0177 | RIO DE JANEIRO      |
+| GIOVANA ARAUJO DE CARVALHO                              |  6,8333 |  3,2000  2,6000  3,4000  5,5000  4,3066 | ---- | FORTALEZA           |
+| GIOVANNA GIMENES GENNARI                                |  7,3333 |  0,0000  0,0000  0,0000  0,0000  0,0000 | ---- | SAO PAULO           |
+| GIOVANNA PEIXOTO LAVIOLA VAGLIANO                       |  6,5000 |  5,0000  3,3000  5,0000  8,0000  5,5600 | ---- | BELO HORIZONTE      |
+| GIUSEPPE VICENTE BATISTA                                |  7,1666 |  6,9000  5,3500  5,5000  6,0000  6,1833 | 0156 | SAO JOSE DOS CAMPOS |
+| GUILHERME ALT CHAGAS MERKLEIN                           |  6,8333 |  7,5000  3,9000  4,5000  5,0000  5,5466 | ---- | SAO JOSE DOS CAMPOS |
+| GUILHERME ALVES REZENDE                                 |  6,5000 |  7,6000  5,2000  6,4000  7,0000  6,5400 | 0086 | SAO JOSE DOS CAMPOS |
+| GUILHERME ARAUJO DE FIGUEIREDO                          |  6,8333 |  5,1000  5,0000  3,5000  5,5000  5,1866 | ---- | SAO PAULO           |
+| GUILHERME ARRAES MARQUES                                |  6,6666 |  8,8000  7,2000  7,5000  4,2500  6,8833 | 0033 | FORTALEZA           |
+| GUILHERME CAIMI                                         |  6,0000 |  5,2000  3,7000  5,6000  6,0000  5,3000 | ---- | CURITIBA            |
+| GUILHERME CAMPOS SILVA                                  |  6,1666 |  6,3000  4,7000  4,6000  5,0000  5,3533 | 0328 | FORTALEZA           |
+| GUILHERME DIACONIUC                                     |  6,6666 |  7,7000  6,3000  5,8000  6,0000  6,4933 | 0094 | SAO JOSE DOS CAMPOS |
+| GUILHERME ERNANDO SIMOES DE OLIVEIRA                    |  7,0000 |  6,5000  3,6000  6,1000  4,7500  5,5900 | ---- | SAO JOSE DOS CAMPOS |
+| GUILHERME GONCALVES SOARES                              |  7,0000 |  7,6000  5,2000  7,5000  4,0000  6,2600 | 0142 | FORTALEZA           |
+| GUILHERME JOSE MOTTA DIAS                               |  6,6666 |  6,5000  4,6000  4,5000  5,0000  5,4533 | 0307 | SAO JOSE DOS CAMPOS |
+| GUILHERME LACERDA OLIVEIRA CELESTINO                    |  7,0000 |  6,3000  5,3000  6,4000  5,0000  6,0000 | 0199 | RIO DE JANEIRO      |
+| GUILHERME LUIZ MULLER MACHADO FILHO                     |  7,0000 |  3,2000  2,1000  3,0000  6,5000  4,3600 | ---- | TERESINA            |
+| GUILHERME MALAVAZI SERRANO                              |  6,3333 |  6,1000  4,0000  5,7000  5,0000  5,4266 | 0310 | SAO JOSE DOS CAMPOS |
+| GUILHERME MITSUNOBU UCHIDA                              |  6,1666 |  3,8000  3,4000  5,0000  5,5000  4,7733 | ---- | SAO PAULO           |
+| GUILHERME OTAVIANO NOGUEIRA PARENTE                     |  7,6666 |  6,0000  7,3000  5,2000  5,0000  6,2333 | 0149 | FORTALEZA           |
+| GUILHERME PERES ALMEIDA                                 |  6,5000 |  4,5000  4,6000  4,3000  6,2500  5,2300 | 0340 | RIO DE JANEIRO      |
+| GUILHERME ROSADA                                        |  7,3333 |  4,7000  4,8000  5,9000  6,7500  5,8966 | 0225 | SAO JOSE DOS CAMPOS |
+| GUILHERME SARAIVA BRASILIENSE                           |  6,0000 |  0,7000  1,3000  1,8000  5,7500  3,1100 | ---- | FORTALEZA           |
+| GUILHERME SCHWINN FAGUNDES                              |  6,3333 |  5,5000  3,9000  4,3000  6,0000  5,2066 | ---- | FORTALEZA           |
+| GUSTAVO AFONSO SALUSTIANO                               |  6,6666 |  6,1000  5,7000  3,2000  6,0000  5,5333 | ---- | SAO PAULO           |
+| GUSTAVO DAL EVEDOVE PIRONI                              |  7,1666 |  4,8000  5,8500  6,5000  5,7500  6,0133 | 0196 | SAO JOSE DOS CAMPOS |
+| GUSTAVO DE OLIVEIRA PORTAS                              |  6,5000 |  4,5000  3,5000  5,4000  5,2500  5,0300 | ---- | BRASILIA            |
+| GUSTAVO DINIZ OLIVEIRA DA HORA                          |  6,6666 |  3,7000  4,3000  5,7000  4,2500  4,9233 | ---- | SAO JOSE DOS CAMPOS |
+| GUSTAVO EWBANK RODRIGUES DANON                          |  6,3333 |  7,2000  5,9000  7,7000  3,0000  6,0266 | ---- | RIO DE JANEIRO      |
+| GUSTAVO FERREIRA DE REZENDE                             |  6,3333 |  4,5000  3,7000  4,3000  4,7500  4,7166 | ---- | FORTALEZA           |
+| GUSTAVO HENRIQUE DALBOSCO                               |  6,8333 |  6,0000  5,8000  5,5000  8,2500  6,4766 | 0098 | FORTALEZA           |
+| GUSTAVO LIMA DA SILVA                                   |  6,6666 |  7,7000  5,1000  5,4000  8,7500  6,7233 | 0053 | FORTALEZA           |
+| GUSTAVO NUNES DE OLIVEIRA                               |  6,8333 |  6,5000  2,8000  6,1000  6,7500  5,7966 | ---- | SAO JOSE DOS CAMPOS |
+| HAMILTON MUSSI CORREA FILHO                             |  6,5000 |  6,5000  4,1000  5,1000  5,5000  5,5400 | 0295 | CURITIBA            |
+| HAZAEL SOLEDADE DE ARAUJO JUMONJI                       |  6,3333 |  6,2000  3,8000  1,2000  4,5000  4,4066 | ---- | RIBEIRAO PRETO      |
+| HEITOR GAMA RIBEIRO                                     |  6,8333 |  6,9000  4,7000  6,1000  7,5000  6,4066 | 0115 | FORTALEZA           |
+| HENRIQUE BARRETO                                        |  7,0000 |  6,3000  6,1000  6,4000  3,7500  5,9100 | ---- | RIO DE JANEIRO      |
+| HENRIQUE CAMPOS SILVA                                   |  7,1666 |  6,3000  4,0000  5,0000  5,2500  5,5433 | 0293 | FORTALEZA           |
+| HENRIQUE CARDOSO COSTA                                  |  6,1666 |  2,3000  2,1000  5,2000  7,5000  4,6533 | ---- | BELO HORIZONTE      |
+| HENRIQUE CESAR HIGINO HOLANDA CORDEIRO                  |  6,3333 |  5,2000  4,4000  4,4000  6,5000  5,3666 | 0326 | TERESINA            |
+| HENRIQUE DIAS TEIXEIRA                                  |  6,6666 |  5,1000  3,7000  3,7000  4,2500  4,6833 | ---- | SAO JOSE DOS CAMPOS |
+| HENRIQUE GRUNEWALD MARANGON                             |  6,5000 |  1,0000  1,0000  5,1000  5,7500  3,8700 | ---- | CAMPINAS            |
+| HENRIQUE INACIO CORDEIRO                                |  6,0000 |  4,2000  2,8000  3,3000  5,2500  4,3100 | ---- | GOIANIA             |
+| HENRIQUE RASIA MONTENEGRO                               |  7,1666 |  6,1000  6,5000  7,7000  8,7500  7,2433 | 0015 | BRASILIA            |
+| HERMIRO DA CRUZ PESSOA JUNIOR                           |  6,6666 |  4,6000  4,7000  2,6000  5,7500  4,8633 | ---- | TERESINA            |
+| HUDSON MONTEIRO ARAUJO                                  |  6,8333 |  5,4000  3,2000  5,6000  5,7500  5,3566 | ---- | FORTALEZA           |
+| IGOR CAMPOS IBIAPINA                                    |  6,3333 |  4,8000  2,9000  5,7000  3,7500  4,6966 | ---- | FORTALEZA           |
+| IGOR ENGELMANN BATISTA                                  |  6,3333 |  3,8000  2,7000  3,0000  7,0000  4,5666 | ---- | FORTALEZA           |
+| IGOR HENRIQUE BURANELLO DOS SANTOS                      |  7,1666 |  5,0000  4,0000  6,4000  5,0000  5,5133 | 0297 | SAO JOSE DOS CAMPOS |
+| IGOR JOSE DOS SANTOS CAMELO                             |  7,8333 |  6,5000  6,4000  7,3000  5,2500  6,6566 | 0066 | SAO JOSE DOS CAMPOS |
+| IGOR LUCINDO CARDOSO                                    |  6,1666 |  5,4000  4,6000  5,8000  2,7500  4,9433 | ---- | RIO DE JANEIRO      |
+| IGOR MENDES DE AGUIAR LYSAKOVSKI BAMPI                  |  6,5000 |  3,1000  2,3000  3,1000  4,0000  3,8000 | ---- | BRASILIA            |
+| IGOR NASCIMENTO ARAUJO                                  |  6,1666 |  5,2000  4,2000  5,4000  5,2500  5,2433 | 0338 | SAO JOSE DOS CAMPOS |
+| INGRID COSTA DE MOURA CONDAL                            |  7,3333 |  6,3000  0,7000  5,9000  5,0000  5,0466 | ---- | RIO DE JANEIRO      |
+| IRIDE URIEL NASCIMENTO CAMPAGNOLI                       |  7,3333 |  5,0000  5,8000  7,1000  5,0000  6,0466 | 0191 | SAO JOSE DOS CAMPOS |
+| ISAAC MARTINS PONTES                                    |  6,5000 |  5,7000  6,9000  4,1000  5,7500  5,7900 | 0246 | FORTALEZA           |
+| ISAAC UCHOA LIMA                                        |  6,8333 |  2,6000  2,4000  5,0000  5,0000  4,3666 | ---- | FORTALEZA           |
+| ISABEL ALENCAR TAVARES COLARES BRASIL                   |  6,1666 |  7,5000  3,9000  6,6000  6,0000  6,0333 | ---- | FORTALEZA           |
+| ISABEL CHAVES DE FREITAS                                |  6,5000 |  6,4000  5,1500  6,0000  4,7500  5,7600 | 0256 | SAO JOSE DOS CAMPOS |
+| ISABELLA FARIAS BEZERRA                                 |  7,1666 |  7,0000  8,1000  6,0000  5,2500  6,7033 | 0059 | FORTALEZA           |
+| ISADORA XIMENES BRANCO                                  |  7,0000 |  5,0000  5,1000  5,3000  7,0000  5,8800 | 0231 | FORTALEZA           |
+| ISMAEL AVILA VASCONCELOS                                |  6,5000 |  5,2000  4,9000  6,6000  4,7500  5,5900 | 0283 | SAO JOSE DOS CAMPOS |
+| ISRAEL SILVA BARROS                                     |  6,6666 |  6,4000  5,6000  5,8000  4,5000  5,7933 | 0245 | SAO JOSE DOS CAMPOS |
+| ITALO DE OLIVEIRA MOREIRA                               |  7,0000 |  6,9000  6,1000  6,3000  6,2500  6,5100 | 0091 | RECIFE              |
+| IVAN DE ALCANTARA BARBOSA BARROS                        |  8,0000 |  4,8000  2,8000  5,0000  6,0000  5,3200 | ---- | SAO JOSE DOS CAMPOS |
+| IZABELA MARINA FERREIRA DA SILVA                        |  6,1666 |  4,7000  1,0000  5,3000  4,0000  4,2333 | ---- | SAO JOSE DOS CAMPOS |
+| JAMESSON LEANDRO PAIVA SANTOS                           |  7,0000 |  7,0000  5,7000  6,3000  5,2500  6,2500 | 0144 | SAO JOSE DOS CAMPOS |
+| JAURO FRANCISCO FLECK DA SILVA                          |  6,3333 |  5,0000  4,1000  4,7000  5,2500  5,0766 | 0352 | SAO JOSE DOS CAMPOS |
+| JEAN CARLOS MATTER THOMASIO                             |  7,5000 |  6,9000  5,4000  6,2000  4,5000  6,1000 | 0175 | SAO JOSE DOS CAMPOS |
+| JEAN KAIRO CRISPIM                                      |  6,8333 |  6,5000  4,2000  6,0000  4,7500  5,6566 | 0275 | SAO JOSE DOS CAMPOS |
+| JEAN MARCOS SAVICKI                                     |  6,3333 |  0,0000  0,0000  0,0000  0,0000  0,0000 | ---- | CURITIBA            |
+| JHONNY KENJI ARASHIRO                                   |  7,1666 |  6,9000  6,7500  6,4000  5,0000  6,4433 | 0106 | SAO JOSE DOS CAMPOS |
+| JOACI CAMPOS DA SILVA NETO                              |  6,8333 |  7,0000  6,5000  4,8000  7,0000  6,4266 | 0112 | FORTALEZA           |
+| JOAO AGUIAR MOREIRA GOMES                               |  8,5000 |  6,0000  5,8000  7,3000  6,5000  6,8200 | 0040 | BRASILIA            |
+| JOAO ARTUR ARMINGER RAABE                               |  7,8333 |  7,9000  6,2000  5,9000  5,7500  6,7166 | 0056 | PORTO ALEGRE        |
+| JOAO CLAUDIO MIRANDA SODRE                              |  7,3333 |  6,5000  4,7000  5,8000  5,5000  5,9666 | 0207 | SAO PAULO           |
+| JOAO GABRIEL BENTO MELO DE MIRANDA                      |  6,6666 |  5,5000  4,9000  5,0000  4,5000  5,3133 | 0331 | TERESINA            |
+| JOAO GABRIEL DE SOUZA ABREU                             |  8,0000 |  6,9000  5,8000  6,1000  4,5000  6,2600 | 0143 | SAO JOSE DOS CAMPOS |
+| JOAO GABRIEL STEFANI ANTUNES                            |  6,6666 |  6,7000  5,6000  5,4000  5,0000  5,8733 | 0232 | SAO JOSE DOS CAMPOS |
+| JOAO INACIO MARTINI BATISTA                             |  6,6666 |  9,5000  4,0000  5,4000  3,2500  5,7633 | ---- | RIO DE JANEIRO      |
+| JOAO LUCAS DUIM                                         |  6,1666 |  5,2000  3,5000  3,7000  5,0000  4,7133 | ---- | FORTALEZA           |
+| JOAO LUCAS FOLTRAN CONSONI                              |  6,6666 |  6,2000  3,0000  3,1000  5,2500  4,8433 | ---- | CURITIBA            |
+| JOAO LUCAS ROCHA ROLIM                                  |  6,1666 |  7,6000  4,8000  6,1000  5,2500  5,9833 | 0203 | FORTALEZA           |
+| JOAO LUCCA SINGI DO AMARAL                              |  6,5000 |  4,6000  4,5000  6,4000  5,0000  5,4000 | 0316 | SAO JOSE DOS CAMPOS |
+| JOAO MARCELO MOREIRA TROVAO FILHO                       |  6,5000 |  6,0000  3,9000  4,8000  5,0000  5,2400 | ---- | FORTALEZA           |
+| JOAO MARCOS LIRA PINTO                                  |  6,1666 |  4,1000  3,1000  5,0000  7,2500  5,1233 | ---- | TERESINA            |
+| JOAO MARCOS ZAMPERLINI PAQUINI                          |  7,6666 |  4,3000  5,0000  6,6000  4,7500  5,6633 | 0272 | SAO JOSE DOS CAMPOS |
+| JOAO MATHEUS DEL VECCHIO FRANCA BARBOSA                 |  7,0000 |  4,1000  4,5000  7,2000  5,0000  5,5600 | 0291 | FORTALEZA           |
+| JOAO PAULO CALISTO BARBOSA                              |  6,5000 |  0,0000  0,0000  0,0000  0,0000  0,0000 | ---- | SAO PAULO           |
+| JOAO PAULO MACHADO COELHO PENNA                         |  6,5000 |  5,6000  3,4500  7,1000  4,5000  5,4300 | ---- | BELO HORIZONTE      |
+| JOAO PEDRO ALVES DE SOUSA ABREU                         |  7,1666 |  6,3000  6,5000  5,3000  6,7500  6,4033 | 0116 | FORTALEZA           |
+| JOAO PEDRO CAMPOS DE MEDEIROS                           |  7,0000 |  3,9000  3,7000  4,5000  4,5000  4,7200 | ---- | RECIFE              |
+| JOAO PEDRO CAROLINO MORAIS                              |  6,5000 |  3,6000  4,2000  5,6000  4,5000  4,8800 | ---- | FORTALEZA           |
+| JOAO PEDRO CHAMHUM BASILIO                              |  7,1666 |  3,4000  3,4000  3,7000  7,7500  5,0833 | ---- | JUIZ DE FORA        |
+| JOAO PEDRO DE MARCHI OLIVEIRA                           |  6,1666 |  6,1000  2,5000  5,3000  4,7500  4,9633 | ---- | CAMPINAS            |
+| JOAO PEDRO DE SOUZA FEDEWICZ                            |  6,8333 |  6,1000  4,9000  6,5000  5,5000  5,9666 | 0208 | SAO JOSE DOS CAMPOS |
+| JOAO PEDRO FALCAO DA SILVA                              |  7,3333 |  6,7000  5,5000  5,8000  7,2500  6,5166 | 0089 | FORTALEZA           |
+| JOAO PEDRO FRANCISCO CARUSO PEDROSO                     |  6,8333 |  6,1000  5,1000  5,9000  5,0000  5,7866 | 0247 | RIO DE JANEIRO      |
+| JOAO PEDRO GUEDES RODRIGUES                             |  6,1666 |  6,3000  5,4000  7,2000  5,7500  6,1633 | 0162 | SAO PAULO           |
+| JOAO PEDRO POLTRONIERI ZIMMERMANN                       |  7,1666 |  7,9000  8,0000  7,0000  6,5000  7,3133 | 0013 | FORTALEZA           |
+| JOAO PEDRO SANTOS NANNI                                 |  6,1666 |  1,6000  0,3000  2,0000  4,5000  2,9133 | ---- | BELO HORIZONTE      |
+| JOAO PEDRO SEDEU GODOI                                  |  6,8333 |  7,2000  1,9500  4,7000  6,2500  5,3866 | ---- | SAO PAULO           |
+| JOAO RAPHAEL FERREIRA GUIMARAES                         |  7,5000 |  6,2000  5,0000  7,4000  7,2500  6,6700 | 0063 | FORTALEZA           |
+| JOAO RODRIGO PINHEIRO DOS SANTOS                        |  6,8333 |  7,2000  5,4000  6,0000  5,2500  6,1366 | 0165 | SAO JOSE DOS CAMPOS |
+| JOAO VICTOR HAULY                                       |  7,5000 |  5,6000  4,4000  5,6000  4,2500  5,4700 | 0305 | SAO JOSE DOS CAMPOS |
+| JOAO VITOR BERNARDES GIROTTO                            |  6,5000 |  3,2000  3,4000  4,7000  4,7500  4,5100 | ---- | LONDRINA            |
+| JOAO VITOR CAMELO DE ALMEIDA                            |  6,0000 |  6,8000  3,2000  5,8000  4,5000  5,2600 | ---- | RIO DE JANEIRO      |
+| JOAO VITOR DE MOURA GIL                                 |  6,5000 |  4,6000  5,2000  5,7000  4,7500  5,3500 | 0329 | SAO JOSE DOS CAMPOS |
+| JOAO VITOR FORNER                                       |  6,5000 |  3,5000  2,9000  4,8000  5,2500  4,5900 | ---- | SAO JOSE DOS CAMPOS |
+| JOAO VITOR LIMA DOS SANTOS                              |  7,3333 |  4,4000  4,6500  6,9000  5,7500  5,8066 | 0242 | SAO PAULO           |
+| JOAO VITOR RODRIGUES CORTINES LAXE                      |  6,1666 |  4,6000  1,8000  3,5000  6,2500  4,4633 | ---- | RIO DE JANEIRO      |
+| JOHANNES ELIAS JOSEPH SALOMAO                           |  8,3333 |  8,2000  4,8000  4,4000  3,5000  5,8466 | ---- | FORTALEZA           |
+| JOSE ANDRE DA SILVA REIS NUNES                          |  6,8333 |  7,4000  5,0000  7,3000  8,0000  6,9066 | 0030 | SAO JOSE DOS CAMPOS |
+| JOSE BARBOSA MARQUES                                    |  7,5000 |  6,2000  4,6000  5,8000  3,7500  5,5700 | ---- | FORTALEZA           |
+| JOSE EDUARDO TEIXEIRA ARAUJO                            |  7,5000 |  6,9000  7,0000  7,3000  5,5000  6,8400 | 0039 | SAO JOSE DOS CAMPOS |
+| JOSE GONCALVES DE ARAUJO JUNIOR                         |  6,5000 |  6,5000  5,6000  5,3000  5,2500  5,8300 | 0237 | SAO JOSE DOS CAMPOS |
+| JOSE LUCAS TAGLIAFERRO BERTASSOLI                       |  6,5000 |  6,4000  4,9000  5,2000  4,0000  5,4000 | 0315 | CAMPINAS            |
+| JOSE VITOR NARDI MACHINI                                |  6,6666 |  6,6000  6,0000  4,9000  8,0000  6,4333 | 0111 | SAO JOSE DOS CAMPOS |
+| JOSELIA NATHALIA PAULO MELO                             |  6,8333 |  7,2000  5,9000  7,6000  5,2500  6,5566 | 0084 | SAO JOSE DOS CAMPOS |
+| JOSEPH INACIO VIEIRA OLIVEIRA GOMES                     |  6,3333 |  5,6000  3,0000  5,6000  4,7500  5,0566 | ---- | SALVADOR            |
+| JUAN GABRIEL DE SOUSA PONCE                             |  6,6666 |  7,3000  4,8000  5,5000  5,0000  5,8533 | 0235 | FORTALEZA           |
+| JUAN MARCO DE JESUS LIBONATTI                           |  7,6666 |  7,6000  6,4000  6,4000  5,5000  6,7133 | 0057 | RIO DE JANEIRO      |
+| JULIA MOTTA COELHO DE CERQUEIRA PAES                    |  6,3333 |  4,2000  2,5000  4,7000  7,0000  4,9466 | ---- | RECIFE              |
+| JULIA STANCIOLI PAIVA                                   |  6,5000 |  3,9000  2,5000  7,2000  9,2500  5,8700 | ---- | BELO HORIZONTE      |
+| JULIANO YOSHIRO NISHIURA                                |  6,6666 |  3,1000  2,3000  3,6000  6,0000  4,3333 | ---- | SAO PAULO           |
+| JULIO CESAR CARDOSO DUARTE                              |  8,0000 |  4,9000  6,4000  6,7000  8,0000  6,8000 | 0043 | GOIANIA             |
+| JULIO VINICIUS AMARAL OLIVEIRA                          |  6,3333 |  5,1000  2,6000  5,0000  5,0000  4,8066 | ---- | FORTALEZA           |
+| KALIL GEORGES BALECH                                    |  6,0000 |  7,4000  2,7500  5,9000  5,7500  5,5600 | ---- | SAO PAULO           |
+| KAWAN NASCIMENTO E SILVA                                |  6,0000 |  2,6000  3,1500  4,5000  4,7500  4,2000 | ---- | SAO PAULO           |
+| KEVIN DE ALMEIDA SANTOS                                 |  7,1666 |  5,5000  4,7000  6,2000  5,0000  5,7133 | 0261 | SAO JOSE DOS CAMPOS |
+| LAEL VIANA LIMA                                         |  6,6666 |  8,3000  1,7000  1,0000  5,0000  4,5333 | ---- | FORTALEZA           |
+| LAHIRKE FIRMO DE ALMEIDA MOTA                           |  7,6666 |  5,7000  5,7000  5,0000  4,7500  5,7633 | 0255 | FORTALEZA           |
+| LAURA GAMBINI SOLA                                      |  6,8333 |  6,8000  4,5000  6,7000  4,7500  5,9166 | 0221 | SAO JOSE DOS CAMPOS |
+| LEO ROCHA MUNGUBA                                       |  6,5000 |  4,8000  6,6000  5,4000  5,2500  5,7100 | 0264 | FORTALEZA           |
+| LEONARDO AMARAL PARENTE                                 |  6,8333 |  3,8000  3,8000  4,2000  5,0000  4,7266 | ---- | FORTALEZA           |
+| LEONARDO ANTONIO LUGARINI                               |  7,5000 |  5,5000  7,1000  8,1000  5,2500  6,6900 | 0061 | SAO JOSE DOS CAMPOS |
+| LEONARDO CHARLES FERNANDES                              |  6,8333 |  7,6000  3,9000  6,1000  6,7500  6,2366 | ---- | FORTALEZA           |
+| LEONARDO DE BORBA PONTES BARRETO                        |  6,0000 |  5,9000  5,8000  5,2000  4,0000  5,3800 | 0324 | FORTALEZA           |
+| LEONARDO GURGEL CARLOS PIRES FILHO                      |  6,3333 |  5,3000  3,7000  3,2000  4,7500  4,6566 | ---- | FORTALEZA           |
+| LEONARDO REMON GOMES                                    |  6,5000 |  4,2000  3,1000  6,0000  3,7500  4,7100 | ---- | RIO DE JANEIRO      |
+| LEONARDO SCHNEIDER FRIEDRICH                            |  7,1666 |  4,8000  3,7000  6,9000  4,0000  5,3133 | ---- | SAO JOSE DOS CAMPOS |
+| LEONARDO SILVEIRA SANTANA                               |  6,3333 |  5,9000  4,5000  4,0000  5,0000  5,1466 | 0347 | FORTALEZA           |
+| LEONARDO VASQUES SAILER                                 |  7,1666 |  6,1000  6,0000  5,7000  7,2500  6,4433 | 0108 | SAO PAULO           |
+| LETICIA MARCELA PINHEIRO RODRIGUES                      |  7,3333 |  4,4000  6,0000  6,8000  5,2500  5,9566 | 0213 | SAO JOSE DOS CAMPOS |
+| LETICIA MENDES COSTA                                    |  6,6666 |  4,0000  5,0000  4,8000  7,5000  5,5933 | 0282 | TERESINA            |
+| LETICIA RODRIGUES NERI                                  |  6,6666 |  5,4000  5,3000  5,5000  7,7500  6,1233 | 0171 | FORTALEZA           |
+| LEVI GURGEL DE LIMA                                     |  7,3333 |  5,4000  6,5000  5,9000  4,7500  5,9766 | 0205 | FORTALEZA           |
+| LEVY PEREIRA RIBEIRO                                    |  7,6666 |  6,1000  5,7000  4,7000  6,2500  6,0833 | 0178 | FORTALEZA           |
+| LIBNI DA SILVA JUNIOR                                   |  6,6666 |  4,9000  5,7000  7,3000  6,0000  6,1133 | 0173 | SAO JOSE DOS CAMPOS |
+| LISANDRA GHIDINI                                        |  7,8333 |  6,6000  5,6000  6,6000  7,7500  6,8766 | 0034 | GOIANIA             |
+| LORRANA PEREIRA SILVA                                   |  6,6666 |  5,6000  3,7000  5,4000  6,5000  5,5733 | ---- | RIO DE JANEIRO      |
+| LUAN HENRIQUE DIAS                                      |  6,3333 |  4,6000  4,7000  4,8000  6,5000  5,3866 | 0321 | SAO JOSE DOS CAMPOS |
+| LUAN MATHEUS DA SILVA ALVARENGA                         |  6,3333 |  5,8000  5,1000  6,8000  5,7500  5,9566 | 0212 | SAO JOSE DOS CAMPOS |
+| LUANA NASCIMENTO LIVI                                   |  6,8333 |  3,5000  0,8000  3,5000  6,5000  4,2266 | ---- | SALVADOR            |
+| LUCAS AUGUSTO SILVEIRA COSTA                            |  7,3333 |  7,3000  4,2000  5,2000  5,5000  5,9066 | 0223 | SAO JOSE DOS CAMPOS |
+| LUCAS CARVALHO FREIBERGER STAPF                         |  7,0000 |  6,7000  4,5000  5,2000  6,0000  5,8800 | 0230 | SAO JOSE DOS CAMPOS |
+| LUCAS COIMBRA GARCIA PORTELLA                           |  6,8333 |  7,4000  6,4000  6,4000  5,5000  6,5066 | 0093 | RIO DE JANEIRO      |
+| LUCAS CORDEIRO DE LIMA COSTA                            |  6,5000 |  5,9000  2,1000  5,5000  5,7500  5,1500 | ---- | RIO DE JANEIRO      |
+| LUCAS DE OLIVEIRA SUCUPIRA                              |  6,1666 |  6,8000  3,6000  5,7000  5,0000  5,4533 | ---- | FORTALEZA           |
+| LUCAS DIAS RIBEIRO                                      |  6,1666 |  5,9000  5,1000  5,7000  5,0000  5,5733 | 0288 | SAO JOSE DOS CAMPOS |
+| LUCAS ECCARD BRAGA MORAES                               |  6,5000 |  9,7000  4,5000  7,1000  5,2500  6,6100 | 0071 | RIO DE JANEIRO      |
+| LUCAS ETCHELLS RILEY UCHOA                              |  7,3333 |  8,7000  6,4000  6,9000  6,7500  7,2166 | 0018 | RIO DE JANEIRO      |
+| LUCAS FILETI GARRIDO                                    |  7,5000 |  5,2000  6,3500  4,5000  6,7500  6,0600 | 0186 | SAO PAULO           |
+| LUCAS FREITAS DA ROCHA                                  |  6,1666 |  5,4000  2,8000  4,9000  4,5000  4,7533 | ---- | SAO JOSE DOS CAMPOS |
+| LUCAS HENRIQUE LOLI                                     |  6,0000 |  4,1000  2,9000  3,6000  3,2500  3,9700 | ---- | SAO JOSE DOS CAMPOS |
+| LUCAS JOSE DANTAS ALCANTARA                             |  6,8333 |  4,4000  0,8000  3,7000  5,0000  4,1466 | ---- | SALVADOR            |
+| LUCAS MARQUES FELIX                                     |  6,1666 |  4,0000  4,5000  5,0000  4,5000  4,8333 | ---- | RIBEIRAO PRETO      |
+| LUCAS MIQUELON NASCIMENTO                               |  7,1666 |  7,6000  6,4000  5,6000  6,1250  6,5783 | 0076 | RIO DE JANEIRO      |
+| LUCAS MOTA YUAN HORA                                    |  6,6666 |  8,1000  7,4000  8,4000  7,7500  7,6633 | 0004 | RIO DE JANEIRO      |
+| LUCAS MULLER REGIS DE OLIVEIRA                          |  6,0000 |  4,6000  2,5000  4,0000  7,0000  4,8200 | ---- | NATAL               |
+| LUCAS PILLA PIMENTEL                                    |  6,1666 |  4,2000  0,7000  1,7000  5,2500  3,6033 | ---- | RIBEIRAO PRETO      |
+| LUCAS PINAFI CARVALHO                                   |  6,6666 |  6,9000  6,7000  4,8000  4,2500  5,8633 | 0233 | SAO JOSE DOS CAMPOS |
+| LUCAS RAMALHO ROCHA                                     |  6,8333 |  6,3000  5,2000  6,9000  8,7500  6,7966 | 0044 | FORTALEZA           |
+| LUCAS RODRIGUES GIACONE                                 |  7,1666 |  4,0000  4,5000  7,0000  4,2500  5,3833 | 0323 | SAO PAULO           |
+| LUCAS SILVA EVANGELISTA DE ALMEIDA                      |  6,0000 |  0,7000  0,4000  0,7000  5,7500  2,7100 | ---- | SAO PAULO           |
+| LUCAS VON ANCKEN GARCIA                                 |  7,3333 |  6,3000  4,0500  5,7000  4,0000  5,4766 | 0303 | SAO JOSE DOS CAMPOS |
+| LUCAS WU JIAJUN                                         |  6,3333 |  5,2000  2,3000  0,9000  5,0000  3,9466 | ---- | RIO DE JANEIRO      |
+| LUCAS YUTAKA KUROISHI                                   |  7,8333 |  5,1000  3,3000  5,2000  4,5000  5,1866 | ---- | SAO PAULO           |
+| LUCCA MOURA ZOPPI MAIA                                  |  7,0000 |  8,6000  3,5000  5,6000  4,7500  5,8900 | ---- | CAMPINAS            |
+| LUCCA RANGEL HADDAD                                     |  7,1666 |  5,5000  6,2000  3,8000  8,0000  6,1333 | ---- | BRASILIA            |
+| LUCIO ENZO HORIE                                        |  6,6666 |  4,6000  5,5000  5,1000  4,5000  5,2733 | 0335 | FORTALEZA           |
+| LUIS CARLOS DA SILVA JUNIOR                             |  7,1666 |  6,7000  7,0000  6,6000  4,7500  6,4433 | 0107 | FORTALEZA           |
+| LUIS EDUARDO DE CASTRO SA                               |  7,0000 |  5,0000  4,8000  5,4000  4,2500  5,2900 | 0333 | FORTALEZA           |
+| LUIS FELIPE BERTUOL                                     |  6,0000 |  5,8000  4,4000  6,4000  4,0000  5,3200 | 0330 | SAO JOSE DOS CAMPOS |
+| LUIS FELIPE SILVA REZENDE SOARES                        |  7,3333 |  4,9000  5,5000  7,7000  7,0000  6,4866 | 0097 | SAO JOSE DOS CAMPOS |
+| LUIS FERNANDO DE ALMEIDA DE SOUSA                       |  6,0000 |  6,0000  4,8000  4,5000  4,5000  5,1600 | 0345 | FORTALEZA           |
+| LUIS HENRIQUE ZUIN RUIZ                                 |  7,8333 |  6,6000  7,3000  7,5000  7,0000  7,2466 | 0014 | GOIANIA             |
+| LUIS MATEUS COSTA DA MOTA                               |  6,0000 |  4,9000  5,1000  4,6000  4,5000  5,0200 | 0356 | FORTALEZA           |
+| LUIS VICTOR PORTO SANTOS                                |  6,3333 |  6,0000  3,3000  5,0000  6,5000  5,4266 | ---- | FORTALEZA           |
+| LUISA DALLMANN                                          |  7,3333 |  7,4000  5,5000  6,9000  6,0000  6,6266 | 0067 | SAO JOSE DOS CAMPOS |
+| LUIZ AUGUSTO CORDEIRO DE MELO                           |  6,0000 |  4,8000  2,1000  2,5000  8,5000  4,7800 | ---- | FORTALEZA           |
+| LUIZ EDUARDO RICHARDT DE AZEVEDO                        |  6,1666 |  4,9000  2,2000  4,0000  6,0000  4,6533 | ---- | PORTO ALEGRE        |
+| LUIZ EDUARDO VANDERLEI TORRES                           |  6,8333 |  5,3000  6,9000  6,7000  5,5000  6,2466 | 0145 | FORTALEZA           |
+| LUIZ FELIPE CEZAR                                       |  6,1666 |  3,7000  4,5000  3,3000  5,0000  4,5333 | ---- | SAO JOSE DOS CAMPOS |
+| LUIZ FERNANDO QUANDT FUSINATO                           |  6,3333 |  6,4000  4,4000  4,7000  5,0000  5,3666 | 0325 | SAO JOSE DOS CAMPOS |
+| LUIZ GUILHERME AMADI BRAGA                              |  6,0000 |  4,2000  2,6000  4,4000  5,7500  4,5900 | ---- | CAMPINAS            |
+| LUIZ VASCONCELOS JUNIOR                                 |  8,1666 |  7,8000  5,1000  7,2000  7,7500  7,2033 | 0019 | RIO DE JANEIRO      |
+| LUIZA MACHADO KRETTLI                                   |  6,3333 |  5,7000  3,6500  5,1000  6,2500  5,4066 | ---- | SAO PAULO           |
+| MAHMUD MOHAMAD HUSSEIN ALI NETO                         |  7,6666 |  8,1000  5,7000  6,4000  5,0000  6,5733 | 0078 | SAO JOSE DOS CAMPOS |
+| MAICON WELLINGTON PANTOJA DE SOUZA                      |  6,8333 |  5,4000  3,6000  5,0000  6,0000  5,3666 | ---- | BELEM               |
+| MAIRA DE SOUZA CANAL                                    |  6,0000 |  3,5000  1,1000  4,0000  8,5000  4,6200 | ---- | VITORIA             |
+| MANUELA DE ALMEIDA GOMES ROCHA                          |  6,3333 |  5,9000  1,1000  3,7000  7,0000  4,8066 | ---- | FORTALEZA           |
+| MARCEL VERSIANI E SILVA                                 |  6,8333 |  5,0000  7,1000  7,2000  4,5000  6,1266 | 0169 | SAO JOSE DOS CAMPOS |
+| MARCELO ANGELO DA SILVA FILHO                           |  7,1666 |  4,5000  4,6000  4,7000  5,5000  5,2933 | 0332 | SAO JOSE DOS CAMPOS |
+| MARCELO ANTONIO SAKAGUTI DORIA                          |  6,0000 |  1,6000  3,6000  5,5000  7,0000  4,7400 | ---- | SAO JOSE RIO PRETO  |
+| MARCELO BUGA MARTINS DA SILVA                           |  8,3333 |  8,3000  6,9000  7,0000  7,0000  7,5066 | 0009 | SAO JOSE DOS CAMPOS |
+| MARCELO DE DEUS POMPEU MAGALHAES                        |  7,5000 |  7,5000  4,3000  6,7000  6,0000  6,4000 | 0119 | FORTALEZA           |
+| MARCELO HIPPOLYTO DE SANDES PEIXOTO                     |  6,0000 |  7,0000  4,8000  3,6000  5,5000  5,3800 | ---- | FORTALEZA           |
+| MARCELO LOIOLA LOPES VERAS                              |  6,1666 |  5,6000  4,6000  4,4000  6,7500  5,5033 | 0299 | FORTALEZA           |
+| MARCELO MACIEL BOHLER DE OLIVEIRA                       |  7,8333 |  5,9000  4,1000  7,1000  6,2500  6,2366 | 0148 | SAO JOSE DOS CAMPOS |
+| MARCELO MELO DE OLIVEIRA                                |  7,1666 |  5,8000  5,1000  5,2000  4,7500  5,6033 | 0281 | FORTALEZA           |
+| MARCIO GHOLMIE LABRIOLA FILHO                           |  6,6666 |  6,5000  4,7000  7,3000  6,7500  6,3833 | 0122 | BELO HORIZONTE      |
+| MARCIO MATHEUS SANTOS DE SOUZA                          |  7,5000 |  6,4000  4,8500  5,2000  5,5000  5,8900 | 0228 | RIO DE JANEIRO      |
+| MARCO ALVARENGA COSTA ESCORSIN                          |  6,1666 |  5,0000  3,6000  4,8000  6,0000  5,1133 | ---- | SAO PAULO           |
+| MARCO ANTONIO DE LIMA SAMPAIO                           |  6,5000 |  4,4000  4,5000  3,0000  4,7500  4,6300 | ---- | FORTALEZA           |
+| MARCOS ANTONIO ARNALDO                                  |  6,1666 |  2,6000  0,4000  1,6000  4,7500  3,1033 | ---- | LONDRINA            |
+| MARCOS ANTONIO DOS SANTOS FONSECA                       |  7,1666 |  7,8000  4,7000  6,3000  7,7500  6,7433 | 0051 | TERESINA            |
+| MARCOS FOLONI                                           |  7,8333 |  7,3000  7,2000  7,7000  7,7500  7,5566 | 0007 | FORTALEZA           |
+| MARCOS LEVI PINTO SOUSA                                 |  6,8333 |  5,5000  3,6000  5,5000  3,7500  5,0366 | ---- | FORTALEZA           |
+| MARCOS PATRICIO NOGUEIRA FILHO                          |  6,1666 |  3,1000  2,8000  4,3000  8,2500  4,9233 | ---- | TERESINA            |
+| MARCOS VINICIUS PEREIRA VELOSO                          |  6,6666 |  7,7000  6,5000  5,0000  7,2500  6,6233 | 0068 | BELEM               |
+| MARCUS GABRIEL DE ALMEIDA NUNES                         |  7,1666 |  5,7000  4,6000  5,9000  5,0000  5,6733 | 0268 | SAO JOSE DOS CAMPOS |
+| MARCUS VINICIUS POSSIDONIO DOS SANTOS                   |  6,5000 |  6,3000  4,1000  5,8000  7,0000  5,9400 | 0216 | RIO DE JANEIRO      |
+| MARIA CLARA DA COSTA OLIVEIRA                           |  6,8333 |  3,4000  4,8000  4,7000  4,5000  4,8466 | ---- | FORTALEZA           |
+| MARIA EDUARDA GONCALVES FREITAS                         |  6,0000 |  0,0000  0,0000  0,0000  0,0000  0,0000 | ---- | FORTALEZA           |
+| MARIA ISABELLE NEVES SANTOS                             |  7,1666 |  3,7000  3,8000  6,5000  7,5000  5,7333 | ---- | RIO DE JANEIRO      |
+| MARIANA BARBOSA SOUSA                                   |  6,5000 |  5,1000  3,4000  5,0000  5,5000  5,1000 | ---- | FORTALEZA           |
+| MATEUS BORDALO VIEIRA DA SILVA                          |  6,1666 |  4,2000  4,2000  6,6000  4,7500  5,1833 | 0342 | RIO DE JANEIRO      |
+| MATEUS DA SILVA MALDONADO                               |  6,3333 |  4,6000  4,6000  5,9000  3,7500  5,0366 | ---- | RIO DE JANEIRO      |
+| MATEUS EGGER CHAVES PEDRO                               |  6,5000 |  4,5000  2,1000  3,8000  5,7500  4,5300 | ---- | BRASILIA            |
+| MATEUS HENRIQUE CRISTO DE MELO                          |  6,5000 |  7,6000  7,0500  7,2000  6,5000  6,9700 | 0027 | SAO JOSE DOS CAMPOS |
+| MATEUS JOAQUIM BARZOTTO PELISSARI                       |  8,3333 |  6,2000  4,3000  7,2000  5,5000  6,3066 | 0133 | SAO JOSE DOS CAMPOS |
+| MATEUS PEREIRA ALVES                                    |  6,1666 |  5,7000  5,5000  6,7000  6,5000  6,1133 | 0172 | SAO JOSE DOS CAMPOS |
+| MATEUS SILVA BORGES                                     |  7,1666 |  7,8000  6,4000  7,7000  7,7500  7,3633 | 0012 | FORTALEZA           |
+| MATEUS SZE COSENZA                                      |  6,5000 |  3,7000  4,4000  4,6000  4,7500  4,7900 | ---- | RIO DE JANEIRO      |
+| MATHEUS ALVES SILVA                                     |  6,6666 |  7,0000  5,8000  6,8000  4,2500  6,1033 | 0174 | SAO JOSE DOS CAMPOS |
+| MATHEUS ANDRADE BARRETO                                 |  7,5000 |  8,4000  4,6000  5,6000  5,0000  6,2200 | 0153 | RIO DE JANEIRO      |
+| MATHEUS BAQUIT REIS                                     |  6,0000 |  4,9000  2,1000  4,0000  3,7500  4,1500 | ---- | FORTALEZA           |
+| MATHEUS BRUZACA DE ALENCAR                              |  6,3333 |  5,2000  6,3000  4,1000  5,5000  5,4866 | 0301 | BRASILIA            |
+| MATHEUS CALIXTO DE LIMA PONTES                          |  6,6666 |  5,2000  5,7000  5,5000  5,5000  5,7133 | 0262 | SAO JOSE DOS CAMPOS |
+| MATHEUS CASTELLAN MIRANDA                               |  7,0000 |  3,9000  3,2000  4,2000  4,7500  4,6100 | ---- | GOIANIA             |
+| MATHEUS DIAS COELHO GONCALVES                           |  6,0000 |  7,1000  4,2000  4,8000  6,7500  5,7700 | 0254 | FORTALEZA           |
+| MATHEUS FRANCA LIMA LOPES                               |  6,8333 |  5,5000  2,3000  3,8000  4,5000  4,5866 | ---- | FORTALEZA           |
+| MATHEUS FRANCO SIQUEIRA                                 |  6,8333 |  5,7000  3,6500  5,0000  6,5000  5,5366 | ---- | SAO PAULO           |
+| MATHEUS GAMBOA DOS SANTOS                               |  6,5000 |  5,1000  3,7000  5,6000  5,2500  5,2300 | ---- | RECIFE              |
+| MATHEUS HENRIQUE RODRIGUES LIMA                         |  7,3333 |  5,9000  5,8000  7,3000  5,5000  6,3666 | 0124 | SAO JOSE DOS CAMPOS |
+| MATHEUS HENRIQUE SILVA FERREIRA                         |  7,0000 |  4,6000  4,4500  6,1000  4,2500  5,2800 | 0334 | SAO JOSE DOS CAMPOS |
+| MATHEUS LOPES PONCIANO LIMA                             |  7,0000 |  5,3000  7,0000  1,9000  3,7500  4,9900 | ---- | FORTALEZA           |
+| MATHEUS MARCUCCI                                        |  6,8333 |  4,4000  4,6000  6,9000  5,5000  5,6466 | 0277 | SAO JOSE DOS CAMPOS |
+| MATHEUS OLIVEIRA ALVES WERNER MARTINS                   |  6,3333 |  4,7000  1,5000  4,4000  7,0000  4,7866 | ---- | BELO HORIZONTE      |
+| MATHEUS PAULO FERREIRA                                  |  6,0000 |  5,5000  1,4000  5,0000  4,0000  4,3800 | ---- | SAO PAULO           |
+| MATHEUS PEREIRA DIAS                                    |  6,3333 |  4,5000  4,4000  5,2000  5,5000  5,1866 | 0341 | SAO JOSE DOS CAMPOS |
+| MATHEUS RODRIGUES ARAUJO                                |  7,0000 |  5,7000  5,0000  8,1000  6,7500  6,5100 | 0092 | SAO JOSE DOS CAMPOS |
+| MATHEUS SANTIAGO MENEZES VIEIRA                         |  6,0000 |  2,6000  0,1000  2,2000  5,5000  3,2800 | ---- | FORTALEZA           |
+| MATHEUS SILVA RAMOS                                     |  7,0000 |  4,7000  6,0000  7,5000  7,5000  6,5400 | 0087 | FORTALEZA           |
+| MATHEUS SOUSA REGO DA SILVA                             |  7,0000 |  5,0000  3,4000  5,4000  6,2500  5,4100 | ---- | FORTALEZA           |
+| MATHEUS TIERRO DE PAULA                                 |  7,0000 |  6,5000  3,6000  7,5000  5,5000  6,0200 | ---- | SAO JOSE DOS CAMPOS |
+| MATHEUS VASCONCELOS FERNANDES                           |  6,6666 |  5,7000  4,1500  6,1000  5,7500  5,6733 | 0269 | SAO JOSE DOS CAMPOS |
+| MATHEUS VASCONCELOS VILELA                              |  7,0000 |  6,1000  4,9000  6,4000  3,5000  5,5800 | ---- | FORTALEZA           |
+| MATHEUS VINICIUS DE MENDONCA FONTOURA                   |  6,5000 |  5,9000  3,5000  5,5000  6,2500  5,5300 | ---- | FORTALEZA           |
+| MATHIAS CAUET MARTINS DE SOUSA DAMASCENO                |  7,0000 |  6,8000  5,5000  5,2000  3,2500  5,5500 | ---- | FORTALEZA           |
+| MATTEUS HIDEKI GIANNOTTI CHAVES NISHIME                 |  6,3333 |  3,4000  3,2000  4,8000  5,2500  4,5966 | ---- | SAO PAULO           |
+| MICHEL GUEGA SILVA BEZERRA                              |  6,1666 |  5,4000  5,9000  4,5000  4,2500  5,2433 | 0337 | RECIFE              |
+| MIGUEL HENRIQUE MORAIS DOS SANTOS                       |  6,0000 |  4,4000  2,5000  5,8000  4,2500  4,5900 | ---- | SAO JOSE DOS CAMPOS |
+| MIGUEL VIEIRA PEREIRA                                   |  8,1666 |  5,4000  7,2000  4,6000  5,2500  6,1233 | 0170 | CAMPINAS            |
+| MILENA DE SOUZA CARUBA                                  |  6,5000 |  4,6000  3,0000  4,4000  6,0000  4,9000 | ---- | RIO DE JANEIRO      |
+| MOISES MOREIRA GONCALVES FELTRIN THIMOTEO               |  7,1666 |  7,5000  4,2000  6,2000  6,2500  6,2633 | 0139 | CURITIBA            |
+| MURILO MIGUEL NARCISO                                   |  6,6666 |  3,5000  3,1000  4,4000  5,0000  4,5333 | ---- | CURITIBA            |
+| NANDO FERREIRA FARIAS                                   |  7,0000 |  4,4000  5,3000  6,4000  5,2500  5,6700 | 0270 | SAO JOSE DOS CAMPOS |
+| NATAN CAMPISTANO DE MELLO                               |  7,0000 |  8,6000  5,4000  6,8000  5,5000  6,6600 | 0065 | RIO DE JANEIRO      |
+| NATANAEL MARSICANO DE BRITO ALEXANDRIA                  |  6,6666 |  3,7000  6,8000  5,2000  5,5000  5,5733 | ---- | FORTALEZA           |
+| NATHALIA DE LIMA CATANANTE                              |  6,5000 |  4,5000  3,8000  4,3000  5,0000  4,8200 | ---- | SAO JOSE DOS CAMPOS |
+| NATHAN DIAS CUNHA                                       |  6,5000 |  2,5000  5,1000  4,1000  7,5000  5,1400 | ---- | FORTALEZA           |
+| NATHAN LUIZ BEZERRA MARTINS                             |  7,1666 |  7,3000  6,3000  4,3000  5,2500  6,0633 | 0183 | SAO PAULO           |
+| NAUANE LINHARES DO NASCIMENTO                           |  7,3333 |  5,5000  7,2000  6,8000  5,5000  6,4666 | 0103 | SAO JOSE DOS CAMPOS |
+| NICKOLAS LIMA FERREIRA                                  |  6,0000 |  6,7000  3,5000  1,7000  4,5000  4,4800 | ---- | FORTALEZA           |
+| NIKOLLAS DA SILVA ANTES                                 |  6,6666 |  6,0000  5,2000  6,7000  4,7500  5,8633 | 0234 | SAO JOSE DOS CAMPOS |
+| NILISON LUIZ FARIAS LESSA                               |  7,8333 |  7,2000  3,7000  5,8000  4,5000  5,8066 | ---- | FORTALEZA           |
+| NOEMI PEREIRA ARAUJO ABRANTES                           |  6,8333 |  4,3000  1,9000  3,9000  5,7500  4,5366 | ---- | RIO DE JANEIRO      |
+| PABLO AUGUSTO BRIGAGAO                                  |  6,5000 |  5,3000  3,6000  3,4000  5,2500  4,8100 | ---- | SAO JOSE DOS CAMPOS |
+| PAMELLA ATANES SILVA                                    |  6,6666 |  6,4000  4,8000  6,1000  7,2500  6,2433 | 0147 | RIO DE JANEIRO      |
+| PAULO CESAR FACANHA SILVA FILHO                         |  6,6666 |  4,1000  5,3000  3,9000  4,7500  4,9433 | ---- | FORTALEZA           |
+| PAULO CESAR SOUZA PAVOLETI                              |  6,1666 |  3,4000  5,1000  5,4000  5,2500  5,0633 | ---- | TERESINA            |
+| PAULO DE MELO COUTINHO NEVES                            |  6,0000 |  6,2000  2,3000  4,8000  4,7500  4,8100 | ---- | RIO DE JANEIRO      |
+| PAULO MAURICIO GUIMARAES DA COSTA                       |  6,8333 |  5,5000  2,5000  6,4000  5,5000  5,3466 | ---- | RIO DE JANEIRO      |
+| PAULO PEREIRA DE OLIVEIRA SANTOS                        |  7,0000 |  4,9000  5,5000  5,5000  4,5000  5,4800 | 0302 | RIO DE JANEIRO      |
+| PAULO VINICIUS RIBEIRO SILVA                            |  6,0000 |  6,3000  4,3000  4,3000  4,2500  5,0300 | 0355 | FORTALEZA           |
+| PAULO VITOR MENESES ANDRADE                             |  6,6666 |  5,9000  6,2000  7,3000  4,2500  6,0633 | 0184 | SAO JOSE DOS CAMPOS |
+| PAULO VITOR RODRIGUES DA SILVA                          |  6,0000 |  3,7000  2,8000  4,3000  4,5000  4,2600 | ---- | FORTALEZA           |
+| PEDRO ANACLETO MARTINS SENNA DE OLIVEIRA                |  7,5000 |  5,6000  4,1000  7,2000  4,2500  5,7300 | 0260 | SAO JOSE DOS CAMPOS |
+| PEDRO AUGUSTO FERREIRA MELO REIS                        |  6,6666 |  5,1000  4,5000  6,0000  7,7500  6,0033 | 0198 | FORTALEZA           |
+| PEDRO BARROSO DOS SANTOS                                |  6,6666 |  6,5000  6,8000  5,2000  2,7500  5,5833 | ---- | FORTALEZA           |
+| PEDRO CAPUCCI MOREIRA E SILVA                           |  6,3333 |  3,6000  2,2000  4,3000  5,2500  4,3366 | ---- | SAO JOSE DOS CAMPOS |
+| PEDRO DE OLIVEIRA RAMOS                                 |  6,5000 |  3,9000  4,2000  5,2000  4,7500  4,9100 | ---- | SAO JOSE DOS CAMPOS |
+| PEDRO FELIPE SILVA BATISTA                              |  7,6666 |  5,1000  5,1000  6,9000  8,0000  6,5533 | 0085 | RECIFE              |
+| PEDRO HENRIQUE COLARES ALVES DA COSTA                   |  6,0000 |  4,0000  2,4000  4,0000  5,7500  4,4300 | ---- | FORTALEZA           |
+| PEDRO HENRIQUE CONTENTE GOMIDES                         |  6,0000 |  4,4000  2,0000  4,8000  4,7500  4,3900 | ---- | SAO JOSE DOS CAMPOS |
+| PEDRO HENRIQUE DIAS KOVALCZUK                           |  6,0000 |  4,9000  5,5000  5,9000  6,0000  5,6600 | 0273 | CURITIBA            |
+| PEDRO HENRIQUE FERRON KIM                               |  6,5000 |  4,7000  3,1000  5,8000  8,5000  5,7200 | ---- | FORTALEZA           |
+| PEDRO HENRIQUE GALLIO BULCAO                            |  6,0000 |  4,3000  3,5000  2,4000  5,7500  4,3900 | ---- | PORTO ALEGRE        |
+| PEDRO HENRIQUE KLEIM DALCIN                             |  6,5000 |  4,9000  3,3000  4,8000  5,0000  4,9000 | ---- | RIO DE JANEIRO      |
+| PEDRO HENRIQUE REIS DA SILVA LIMA                       |  6,0000 |  0,9000  5,1000  4,3000  6,0000  4,4600 | ---- | BELO HORIZONTE      |
+| PEDRO IGOR DA SILVA                                     |  6,5000 |  5,4000  3,3000  2,9000  4,2500  4,4700 | ---- | FORTALEZA           |
+| PEDRO IGOR DOURADO BORGES                               |  7,6666 |  5,9000  6,9000  6,6000  3,5000  6,1133 | ---- | FORTALEZA           |
+| PEDRO JOB VINHAES                                       |  7,3333 |  7,6000  2,6000  7,3000  7,7500  6,5166 | ---- | RECIFE              |
+| PEDRO KUNTZ PUGLIA                                      |  8,3333 |  8,7000  8,4000  7,5000  5,0000  7,5866 | 0006 | SAO JOSE DOS CAMPOS |
+| PEDRO LIMA MOREIRA DE SOUSA                             |  6,0000 |  3,2000  3,0000  1,6000  5,0000  3,7600 | ---- | FORTALEZA           |
+| PEDRO LUIZ MOREIRA SANTOS SILVA                         |  6,8333 |  7,1000  6,9000  6,5000  5,5000  6,5666 | 0080 | SALVADOR            |
+| PEDRO MIGUEL SILVA CASTRO                               |  6,1666 |  5,3000  5,3000  4,8000  4,2500  5,1633 | 0344 | FORTALEZA           |
+| PEDRO PEREIRA DE OLIVEIRA SANTOS                        |  6,6666 |  5,5000  3,4000  5,9000  4,2500  5,1433 | ---- | RIO DE JANEIRO      |
+| PEDRO TAVARES PEREIRA                                   |  6,1666 |  5,3000  2,6000  3,6000  4,0000  4,3333 | ---- | RIO DE JANEIRO      |
+| PEDRO VICTOR SILVA MEDEIROS                             |  7,8333 |  3,6000  3,8000  5,0000  4,0000  4,8466 | ---- | FORTALEZA           |
+| PEDRO VIEIRA ROCHA                                      |  6,1666 |  6,7000  5,5000  5,1000  5,7500  5,8433 | 0236 | FORTALEZA           |
+| PEDRO YUDI HONDA                                        |  6,6666 |  3,7000  5,0000  7,7000  4,5000  5,5133 | ---- | RIO DE JANEIRO      |
+| PERLA ROCHA DO NASCIMENTO                               |  7,0000 |  5,6000  2,8000  4,9000  7,5000  5,5600 | ---- | RIO DE JANEIRO      |
+| PETRUS VILALVA CLARO SILVA                              |  6,8333 |  5,4000  4,3000  5,5000  4,2500  5,2566 | 0336 | SAO JOSE DOS CAMPOS |
+| PHELLYPE RERISON FIGUEIREDO DE FREITAS                  |  7,8333 |  8,5000  5,9000  6,4000  6,0000  6,9266 | 0028 | FORTALEZA           |
+| RAFAEL AKIRA OKAMURA FERRO                              |  6,5000 |  4,5000  4,9000  5,0000  6,2500  5,4300 | 0309 | SAO PAULO           |
+| RAFAEL ATTILIO AGRICOLA                                 |  6,6666 |  4,4000  2,5000  4,9000  5,7500  4,8433 | ---- | BRASILIA            |
+| RAFAEL BITTAR GONCALVES                                 |  6,3333 |  6,2000  5,2000  4,8000  4,7500  5,4566 | 0306 | GOIANIA             |
+| RAFAEL BUENO CARDOSO                                    |  8,1666 |  7,4000  4,6000  8,4000  4,5000  6,6133 | 0070 | CURITIBA            |
+| RAFAEL CAMARGO                                          |  6,5000 |  5,4000  5,1000  4,0000  4,7500  5,1500 | 0346 | SAO JOSE DOS CAMPOS |
+| RAFAEL CANGUSSU FERREIRA                                |  6,3333 |  6,6000  3,7000  5,9000  7,0000  5,9066 | ---- | RECIFE              |
+| RAFAEL CAVALCANTE TIMBO                                 |  7,0000 |  6,9000  6,0000  5,2000  6,2500  6,2700 | 0138 | FORTALEZA           |
+| RAFAEL CUNHA BEJES LEARTH                               |  6,1666 |  4,2000  3,8000  6,1000  5,2500  5,1033 | ---- | SAO JOSE DOS CAMPOS |
+| RAFAEL GOMES PORTACIO DE SOUZA                          |  7,0000 |  7,6000  4,6000  3,4000  4,0000  5,3200 | ---- | FORTALEZA           |
+| RAFAEL HAUEISEN BATISTA DE LIMA                         |  7,1666 |  5,2000  5,8000  6,6000  8,2500  6,6033 | 0072 | GOIANIA             |
+| RAFAEL KENZO SAKAMOTO                                   |  6,0000 |  3,8000  5,7000  4,5000  6,0000  5,2000 | ---- | SAO PAULO           |
+| RAFAEL MACIEL DE ANDRADE LIMA                           |  7,0000 |  1,1000  1,2000  6,9000  8,2500  4,8900 | ---- | NATAL               |
+| RAFAEL MODESTO DE SOUSA MOURA                           |  7,5000 |  5,7000  5,8000  6,6000  6,7500  6,4700 | 0100 | SAO JOSE DOS CAMPOS |
+| RAFAEL OTERO LITRAN SATO                                |  6,0000 |  5,8000  3,1500  5,8000  6,5000  5,4500 | ---- | SAO PAULO           |
+| RAFAEL PONTES TENORIO LIMA                              |  7,3333 |  7,0000  4,3000  7,4000  4,2500  6,0566 | 0187 | FORTALEZA           |
+| RAFAEL SILVA DE OLIVEIRA                                |  6,6666 |  3,9000  3,5000  6,4000  5,5000  5,1933 | ---- | FORTALEZA           |
+| RAFAEL STUDART MATTOS DI PIERO                          |  7,1666 |  8,2000  6,5000  6,2000  7,0000  7,0133 | 0023 | FORTALEZA           |
+| RAFAELA VASCONCELOS MESQUITA ANDRADE                    |  6,6666 |  4,4000  5,7000  3,6000  7,2500  5,5233 | ---- | FORTALEZA           |
+| RAFAELLA CARMO DOS SANTOS                               |  7,1666 |  7,2000  4,7000  5,8000  5,5000  6,0733 | 0181 | SAO JOSE DOS CAMPOS |
+| RAPHAEL ANDRE LEAL                                      |  7,0000 |  4,6000  2,4000  4,3000  6,2500  4,9100 | ---- | RIO DE JANEIRO      |
+| RAUL RANGEL MORAES BEZERRA                              |  6,0000 |  4,1000  0,7000  2,8000  0,0000  2,7200 | ---- | FORTALEZA           |
+| RAUL TEODORO DINIZ SILVEIRA                             |  6,1666 |  5,3000  4,4000  4,8000  4,7500  5,0833 | 0351 | BELO HORIZONTE      |
+| REBECA FERREIRA BRASIL                                  |  6,0000 |  6,5000  3,8000  5,8000  4,7500  5,3700 | ---- | RECIFE              |
+| REBECA LAILA DUARTE COSTA                               |  6,1666 |  5,3000  1,6000  1,9000  5,0000  3,9933 | ---- | FORTALEZA           |
+| REGINALDO BARBOSA DE LIMA FILHO                         |  6,0000 |  3,1000  5,2000  4,4000  6,0000  4,9400 | ---- | SAO PAULO           |
+| REGINALDO PEREIRA DA SILVA FILHO                        |  7,0000 |  4,4000  5,9000  4,1000  6,5000  5,5800 | 0285 | FORTALEZA           |
+| RENAN ALMEIDA FERREIRA                                  |  6,1666 |  6,2000  3,2000  3,8000  5,2500  4,9233 | ---- | RIO DE JANEIRO      |
+| RENAN REGO PACHECO                                      |  6,5000 |  3,3000  4,4000  4,8000  3,8750  4,5750 | ---- | FORTALEZA           |
+| RENATO DA PAIXAO ALVES                                  |  7,0000 |  4,7000  4,1000  4,9000  5,0000  5,1400 | 0348 | RECIFE              |
+| RENZO MARTINS GUALBERTO                                 |  6,1666 |  7,0000  3,5000  4,8000  8,5000  5,9933 | ---- | GOIANIA             |
+| RICARDO CHIQUETTO DO LAGO                               |  6,5000 |  3,5000  3,5000  4,6000  7,5000  5,1200 | ---- | SAO PAULO           |
+| RICHARD DE CARVALHO GONCALVES MELLO                     |  6,5000 |  6,2000  4,3000  4,5000  7,5000  5,8000 | 0244 | RIO DE JANEIRO      |
+| ROBSON SANTOS LUZ FILHO                                 |  7,3333 |  5,3000  5,0000  6,3000  7,5000  6,2866 | 0134 | TERESINA            |
+| RODRIGO ABREU ALVES DE FREITAS MOTA                     |  7,8333 |  5,5000  4,7000  4,3000  4,7500  5,4166 | 0312 | FORTALEZA           |
+| RODRIGO MACEDO RIOS                                     |  6,3333 |  7,8000  6,6000  7,5000  5,5000  6,7466 | 0049 | SAO JOSE DOS CAMPOS |
+| RODRIGO SOUZA CARDOSO                                   |  6,5000 |  8,2000  5,8000  7,1000  5,5000  6,6200 | 0069 | SAO JOSE DOS CAMPOS |
+| RODRIGO YUSKE YAMAUCHI                                  |  6,1666 |  2,7000  0,4000  2,3000  5,0000  3,3133 | ---- | CURITIBA            |
+| ROGER RIBEIRO FERREIRA                                  |  6,5000 |  6,1000  7,7000  6,6000  4,2500  6,2300 | 0150 | RIO DE JANEIRO      |
+| ROGERIO ASTORIA LAZARO OLIVEIRA                         |  7,3333 |  5,4000  3,2000  5,3000  5,0000  5,2466 | ---- | SAO PAULO           |
+| ROMULO MAGNO RODRIGUES BORIO                            |  7,5000 |  9,2000  6,6000  7,4000  5,5000  7,2400 | 0016 | RIO DE JANEIRO      |
+| ROMULO VENANCIO DA SILVA                                |  6,5000 |  3,6000  4,2000  3,8000  5,5000  4,7200 | ---- | JUIZ DE FORA        |
+| ROXANA FERNANDA DA SILVA SOUZA                          |  6,5000 |  6,3000  4,5000  6,3000  4,2500  5,5700 | 0289 | FORTALEZA           |
+| RYCHARDSON LUCAS VASCONCELOS DE SOUSA                   |  6,5000 |  4,4000  3,0000  5,8000  5,5000  5,0400 | ---- | FORTALEZA           |
+| SAMARA CAVALCANTE LEMOS                                 |  7,3333 |  7,2000  5,6000  7,2000  4,7500  6,4166 | 0114 | FORTALEZA           |
+| SAMIR NUNES DA SILVA                                    |  6,3333 |  5,7000  4,0000  6,1000  8,5000  6,1266 | 0168 | SAO PAULO           |
+| SAMUEL AFONSO DE SOUZA CAVALCANTE                       |  6,5000 |  4,5000  3,3000  4,0000  5,5000  4,7600 | ---- | FORTALEZA           |
+| SAMUEL BARBOSA E SILVA                                  |  7,0000 |  7,2000  5,0000  4,6000  5,2500  5,8100 | 0240 | FORTALEZA           |
+| SAMUEL BORGES BEZERRA                                   |  6,1666 |  2,8000  1,6000  4,1000  3,6250  3,6583 | ---- | BRASILIA            |
+| SAMUEL MENDES DE MELO                                   |  7,6666 |  4,3000  5,2000  6,8000  5,5000  5,8933 | 0227 | FORTALEZA           |
+| SAVIO LIMA RODRIGUES                                    |  6,8333 |  5,5000  4,1000  5,0000  6,7500  5,6366 | 0278 | TERESINA            |
+| SEAN CARDOSO LEBEIS PIRES                               |  7,5000 |  8,0000  4,9000  5,2000  4,0000  5,9200 | 0220 | SAO JOSE DOS CAMPOS |
+| STELIOS ATHANASSIOS MARATHAOAN CASTELLO BRANCO KARVANIS |  6,8333 |  7,6000  4,1000  5,7000  4,5000  5,7466 | 0258 | TERESINA            |
+| STEPHANIE PEDRAZZA GRUNWALD                             |  6,3333 |  4,1000  2,0000  3,5000  6,0000  4,3866 | ---- | SALVADOR            |
+| STEPHANO SOARES VIGLIO                                  |  6,1666 |  1,9000  1,8000  3,0000  8,7500  4,3233 | ---- | GOIANIA             |
+| TAKESHI YAMAGUCHI                                       |  7,3333 |  8,4000  4,9000  6,9000  4,2500  6,3566 | 0125 | SAO JOSE DOS CAMPOS |
+| TALLES EDUARDO CAMARGO DOS SANTOS                       |  7,0000 |  7,3000  4,1000  5,4000  6,0000  5,9600 | 0210 | BRASILIA            |
+| THIAGO HENRIQUE BUENO                                   |  6,5000 |  4,7000  4,3000  5,4000  5,0000  5,1800 | 0343 | FORTALEZA           |
+| THIAGO KRETZER BECHTOLD                                 |  6,1666 |  3,0000  3,0000  4,8000  6,5000  4,6933 | ---- | SAO PAULO           |
+| THIAGO MURRER DUTRA                                     |  6,1666 |  5,2000  4,3000  4,9000  4,2500  4,9633 | ---- | SAO JOSE DOS CAMPOS |
+| THIAGO OLIVEIRA JUCA VASCONCELOS                        |  8,3333 |  6,5000  3,0000  6,9000  6,7500  6,2966 | ---- | FORTALEZA           |
+| THIAGO ORIGO DUARTE                                     |  6,8333 |  6,1000  4,5000  7,7000  5,2500  6,0766 | 0180 | SAO JOSE DOS CAMPOS |
+| THIAGO TOREZIM SILVA                                    |  6,3333 |  4,2000  0,6000  3,6000  5,0000  3,9466 | ---- | CAMPINAS            |
+| THIAGO YUJI DE AGUIAR                                   |  7,6666 |  6,9000  2,9000  1,5000  6,2500  5,0433 | ---- | CURITIBA            |
+| THYAGO LEAL SILVA                                       |  7,6666 |  5,9000  4,7000  7,2000  5,5000  6,1933 | 0155 | FORTALEZA           |
+| TIAGO ASSMANN FONTANA                                   |  7,0000 |  8,7000  7,2000  7,1000  5,0000  7,0000 | 0025 | SAO JOSE DOS CAMPOS |
+| TIAGO BRANDAO FORTE                                     |  6,1666 |  3,1000  1,7000  4,6000  4,0000  3,9133 | ---- | FORTALEZA           |
+| TIAGO TEIXEIRA CARNEIRO                                 |  7,5000 |  7,6000  5,8000  7,2000  5,7500  6,7700 | 0047 | FORTALEZA           |
+| TIAGO VARGAS PEREIRA DE OLIVEIRA                        |  6,1666 |  4,8000  2,1000  4,8000  6,7500  4,9233 | ---- | FORTALEZA           |
+| TOMAS WINDISCH OLENSCKI                                 |  6,0000 |  4,2000  4,2000  5,1000  5,0000  4,9000 | ---- | SAO PAULO           |
+| TOMAZ MAIA SULLER                                       |  6,1666 |  3,7000  3,2000  4,1000  6,7500  4,7833 | ---- | SAO PAULO           |
+| TOMAZ TELES CARNEIRO                                    |  6,6666 |  9,2000  5,9000  4,4000  6,0000  6,4333 | 0110 | BRASILIA            |
+| UGO FALANGOLA PINHO GONCALVES                           |  6,0000 |  3,0000  0,4000  1,5000  5,0000  3,1800 | ---- | FORTALEZA           |
+| VALENTINE WOLKMER SPAGNOL                               |  6,0000 |  5,6000  4,7000  5,3000  5,7500  5,4700 | 0304 | PORTO ALEGRE        |
+| VALERIO AUGUSTO NERI DA ROCHA BARROS                    |  6,6666 |  7,3000  4,2000  6,9000  4,0000  5,8133 | 0239 | SAO JOSE DOS CAMPOS |
+| VANESSA BRAGA SOARES                                    |  6,8333 |  6,5000  6,5000  3,9000  4,0000  5,5466 | ---- | FORTALEZA           |
+| VERONICA RODRIGHERO                                     |  7,5000 |  7,4000  5,9000  6,3000  5,0000  6,4200 | 0113 | SAO JOSE DOS CAMPOS |
+| VICTOR ANTONIO BATISTA CAUS                             |  6,5000 |  4,8000  4,6000  5,1000  7,7500  5,7500 | 0257 | TERESINA            |
+| VICTOR DE ALCANTARA SABO                                |  6,5000 |  6,4000  4,5000  3,7000  4,7500  5,1700 | ---- | SAO JOSE DOS CAMPOS |
+| VICTOR HENRIQUE STEIN                                   |  6,1666 |  4,4000  3,8000  3,8000  4,1250  4,4583 | ---- | SAO JOSE DOS CAMPOS |
+| VICTOR HONORIO PEREIRA DA SILVA                         |  6,6666 |  6,6000  1,2000  5,4000  8,2500  5,6233 | ---- | FORTALEZA           |
+| VICTOR HUGO DE OLIVEIRA BASTOS                          |  6,8333 |  6,0000  6,4000  6,1000  7,5000  6,5666 | 0082 | FORTALEZA           |
+| VICTOR LIVIO AZEVEDO DE OLIVEIRA                        |  6,3333 |  4,7000  5,1000  6,3000  4,5000  5,3866 | 0320 | SAO JOSE DOS CAMPOS |
+| VICTOR LUIZ DE SOUZA COELHO                             |  6,1666 |  4,8000  5,5000  5,1000  8,0000  5,9133 | 0222 | BELO HORIZONTE      |
+| VICTOR LUIZ DOREA BEIRAO COSTA                          |  7,8333 |  7,4000  6,1000  7,0000  4,5000  6,5666 | 0079 | RIO DE JANEIRO      |
+| VICTOR MACIEL                                           |  7,3333 |  6,9000  6,5000  5,7000  6,0000  6,4866 | 0096 | FORTALEZA           |
+| VICTOR MONTALVAO TAVARES                                |  6,3333 |  6,6000  4,7000  5,0000  5,2500  5,5766 | 0287 | SAO JOSE DOS CAMPOS |
+| VICTOR OLIVEIRA PIEDADE BUSTOS                          |  6,5000 |  6,6000  5,7000  7,5000  6,5000  6,5600 | 0083 | SAO JOSE DOS CAMPOS |
+| VICTOR PATRICK WAKUGAWA DE OLIVEIRA                     |  6,6666 |  4,6000  5,8000  5,1000  7,2500  5,8833 | 0229 | GOIANIA             |
+| VICTORIA CATARINA SOUZA LOPES                           |  7,6666 |  5,9000  5,1000  5,6000  7,7500  6,4033 | 0117 | FORTALEZA           |
+| VICTORIA MARIA DE ARAUJO FERREIRA FELIX                 |  7,0000 |  7,2000  3,0000  4,5000  4,5000  5,2400 | ---- | FORTALEZA           |
+| VINICIUS BALLESTRIN DA CRUZ                             |  7,5000 |  8,1000  5,8000  7,2000  5,0000  6,7200 | 0054 | FORTALEZA           |
+| VINICIUS BARROS ALVARENGA                               |  6,3333 |  4,5000  6,5000  5,7000  6,0000  5,8066 | 0241 | GOIANIA             |
+| VINICIUS BESERRA CAVALCANTE DE SOUZA                    |  6,5000 |  6,7000  5,4000  6,3000  6,5000  6,2800 | 0135 | RIO DE JANEIRO      |
+| VINICIUS BONAVIDES DE CASTRO CAMPOS                     |  7,0000 |  6,6000  5,5000  5,2000  6,5000  6,1600 | 0163 | FORTALEZA           |
+| VINICIUS BRITO DE OLIVEIRA                              |  6,8333 |  5,1000  5,6000  4,4000  5,0000  5,3866 | 0319 | FORTALEZA           |
+| VINICIUS DE GALIZA VIEIRA                               |  6,6666 |  4,7000  1,7000  4,5000  7,0000  4,9133 | ---- | FORTALEZA           |
+| VINICIUS DE OLIVEIRA RAIMUNDO                           |  8,0000 |  5,8000  7,0000  6,0000  4,7500  6,3100 | 0131 | SAO JOSE DOS CAMPOS |
+| VINICIUS FERREIRA RODRIGUES                             |  6,3333 |  4,1000  4,9000  4,3000  7,5000  5,4266 | 0311 | FORTALEZA           |
+| VINICIUS FREITAS DE ALMEIDA                             |  7,8333 |  5,8000  6,2000  6,1000  6,0000  6,3866 | 0121 | SAO JOSE DOS CAMPOS |
+| VINICIUS JOSE DE MENEZES PEREIRA                        |  6,5000 |  7,6000  4,7000  5,1000  5,0000  5,7800 | 0249 | FORTALEZA           |
+| VINICIUS LUIZ FERREIRA FARIAS                           |  6,1666 |  5,0000  3,0000  5,2000  4,7500  4,8233 | ---- | CURITIBA            |
+| VINICIUS RIBEIRO RODRIGUES CAMELO                       |  6,6666 |  7,7000  6,2000  5,6000  6,5000  6,5333 | 0088 | BELO HORIZONTE      |
+| VITOR ALMEIDA DE CARVALHO                               |  6,8333 |  3,3000  4,1000  3,8000  4,7500  4,5566 | ---- | PORTO ALEGRE        |
+| VITOR DA ROCHA PONTES                                   |  6,8333 |  4,3000  4,9000  4,2000  5,2500  5,0966 | 0349 | SAO PAULO           |
+| VITOR DE AZEVEDO MENESES                                |  6,6666 |  7,3000  5,7000  6,7000  5,0000  6,2733 | 0137 | BRASILIA            |
+| VITOR EDUARDO PINHEIRO DO NASCIMENTO                    |  6,3333 |  6,0000  2,9000  5,8000  6,0000  5,4066 | ---- | RIO DE JANEIRO      |
+| VITOR LUIZ PAZ ROSENO DA SILVA                          |  6,1666 |  4,0000  3,1000  6,4000  4,7500  4,8833 | ---- | CURITIBA            |
+| VITOR MEIRELLES BETTO                                   |  7,0000 |  5,1000  5,6000  6,7000  5,7500  6,0300 | 0193 | VITORIA             |
+| VITOR SANTANA REGATTIERI DE BIASE                       |  6,8333 |  5,6000  6,1000  6,6000  5,7500  6,1766 | 0159 | GOIANIA             |
+| VITORIA REGIA BASTOS SANTOS                             |  6,6666 |  4,2000  4,0000  5,0000  4,5000  4,8733 | ---- | FORTALEZA           |
+| WALTER MELHADO ARBIOL FORNE                             |  6,6666 |  4,6000  4,1000  4,7000  4,1250  4,8383 | ---- | FORTALEZA           |
+| WATSON TERLLIZZIE DE ARAUJO LOPES JUNIOR                |  7,3333 |  3,8000  4,7000  5,3000  3,7500  4,9766 | ---- | CURITIBA            |
+| WERISLEYK LOGAM BARBOSA MARTINS                         |  6,0000 |  5,3000  2,8000  4,3000  6,5000  4,9800 | ---- | FORTALEZA           |
+| WILLIAM MATHEUS ROCHA LUCENA                            |  7,1666 |  6,9000  4,8000  6,6000  7,0000  6,4933 | 0095 | FORTALEZA           |
+| WILLIE ZHI JIE ZHANG                                    |  6,6666 |  7,1000  3,0000  5,0000  4,5000  5,2533 | ---- | RIO DE JANEIRO      |
+| YAN RAFAEL RODRIGUES CORREA MARTINS                     |  7,8333 |  6,3000  6,1000  6,9000  4,2500  6,2766 | 0136 | BELO HORIZONTE      |
+| YARA MONYQUE GOMES LUCAS                                |  6,3333 |  4,3000  0,2000  2,1000  5,0000  3,5866 | ---- | FORTALEZA           |
+| YOSEF JOSEPH GONCALVES DO NASCIMENTO                    |  6,5000 |  5,2000  2,6000  4,5000  4,5000  4,6600 | ---- | BRASILIA            |
+| YOVAN PINTO DE CARVALHO JUNIOR                          |  7,5000 |  4,2000  3,8000  5,0000  5,7500  5,2500 | ---- | FORTALEZA           |
+| YURI ASSIS PINTO                                        |  7,1666 |  6,5000  4,9000  5,4000  5,5000  5,8933 | 0226 | SAO PAULO           |
+| YURI DE SENE ALVIZI                                     |  6,1666 |  5,2000  4,6000  7,5000  6,2500  5,9433 | 0215 | SAO JOSE DOS CAMPOS |
+| YURI FERREIRA MARCAL                                    |  6,1666 |  3,2000  1,0000  1,5000  5,7500  3,5233 | ---- | GOIANIA             |
+| YURI MENDES DE ALMEIDA                                  |  7,0000 |  8,5000  6,4000  7,2000  5,2500  6,8700 | 0036 | SAO JOSE DOS CAMPOS |
+| YURI TAVARES VARAO RESENDE                              |  7,3333 |  7,0000  5,1000  5,5000  5,0000  5,9866 | 0202 | FORTALEZA           |
++---------------------------------------------------------+---------+-----------------------------------------+------+---------------------+
